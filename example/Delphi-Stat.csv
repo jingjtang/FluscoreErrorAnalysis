@@ -1,0 +1,1880 @@
+season,model week,location,target,type,entry,score,competition_week
+2018/2019,MW42,US National,Season onset,Bin,Delphi-Stat,-1.3730341356177025,1
+2018/2019,MW43,US National,Season onset,Bin,Delphi-Stat,-1.6721220005836628,2
+2018/2019,MW44,US National,Season onset,Bin,Delphi-Stat,-1.7122773957844926,3
+2018/2019,MW45,US National,Season onset,Bin,Delphi-Stat,-1.3367406056921696,4
+2018/2019,MW46,US National,Season onset,Bin,Delphi-Stat,-0.8468687186329968,5
+2018/2019,MW47,US National,Season onset,Bin,Delphi-Stat,-1.779497446729928,6
+2018/2019,MW48,US National,Season onset,Bin,Delphi-Stat,-2.0363665276714227,7
+2018/2019,MW49,US National,Season onset,Bin,Delphi-Stat,-1.9207328301257351,8
+2018/2019,MW50,US National,Season onset,Bin,Delphi-Stat,-1.8271060132196455,9
+2018/2019,MW51,US National,Season onset,Bin,Delphi-Stat,-1.8520365365910112,10
+2018/2019,MW52,US National,Season onset,Bin,Delphi-Stat,-1.7425093434581933,11
+2018/2019,MW53,US National,Season onset,Bin,Delphi-Stat,-0.3257237112163973,12
+2018/2019,MW54,US National,Season onset,Bin,Delphi-Stat,-1.4814281392482416,13
+2018/2019,MW55,US National,Season onset,Bin,Delphi-Stat,-1.4998865083116537,14
+2018/2019,MW42,HHS Region 1,Season onset,Bin,Delphi-Stat,-1.7350910938746615,1
+2018/2019,MW43,HHS Region 1,Season onset,Bin,Delphi-Stat,-1.3960858331477426,2
+2018/2019,MW44,HHS Region 1,Season onset,Bin,Delphi-Stat,-1.3006028972353085,3
+2018/2019,MW45,HHS Region 1,Season onset,Bin,Delphi-Stat,-1.3172835184592215,4
+2018/2019,MW46,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.9353351509160198,5
+2018/2019,MW47,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.7872011301370603,6
+2018/2019,MW48,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.5643933619125657,7
+2018/2019,MW49,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.2728336022702213,8
+2018/2019,MW50,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.22873034303874565,9
+2018/2019,MW51,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.17251097505667753,10
+2018/2019,MW52,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.14971216413430857,11
+2018/2019,MW53,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.15219780569215147,12
+2018/2019,MW54,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.19335826654556507,13
+2018/2019,MW55,HHS Region 1,Season onset,Bin,Delphi-Stat,-0.2212073428357772,14
+2018/2019,MW42,HHS Region 2,Season onset,Bin,Delphi-Stat,-1.4925938088575297,1
+2018/2019,MW43,HHS Region 2,Season onset,Bin,Delphi-Stat,-1.336664885125296,2
+2018/2019,MW44,HHS Region 2,Season onset,Bin,Delphi-Stat,-1.4099702206399445,3
+2018/2019,MW45,HHS Region 2,Season onset,Bin,Delphi-Stat,-1.2585502293492228,4
+2018/2019,MW46,HHS Region 2,Season onset,Bin,Delphi-Stat,-2.1908741750537577,5
+2018/2019,MW47,HHS Region 2,Season onset,Bin,Delphi-Stat,-1.3437862306546207,6
+2018/2019,MW48,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.8437444960891215,7
+2018/2019,MW49,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.4027412172861572,8
+2018/2019,MW50,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.37041783831198255,9
+2018/2019,MW51,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.14833592089679642,10
+2018/2019,MW52,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.10092378924731664,11
+2018/2019,MW53,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.0604564619068098,12
+2018/2019,MW54,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.058534361811743624,13
+2018/2019,MW55,HHS Region 2,Season onset,Bin,Delphi-Stat,-0.05095732567673699,14
+2018/2019,MW42,HHS Region 3,Season onset,Bin,Delphi-Stat,-1.181067040569355,1
+2018/2019,MW43,HHS Region 3,Season onset,Bin,Delphi-Stat,-1.1958150947977932,2
+2018/2019,MW44,HHS Region 3,Season onset,Bin,Delphi-Stat,-1.3453009467956676,3
+2018/2019,MW45,HHS Region 3,Season onset,Bin,Delphi-Stat,-1.0688594895463195,4
+2018/2019,MW46,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.951812254899413,5
+2018/2019,MW47,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.8792953450063988,6
+2018/2019,MW48,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.4982715635095519,7
+2018/2019,MW49,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.5019945643413964,8
+2018/2019,MW50,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.3642999197288251,9
+2018/2019,MW51,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.04991034065896346,10
+2018/2019,MW52,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.04958455915771897,11
+2018/2019,MW53,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.04983595726616032,12
+2018/2019,MW54,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.05359492525417944,13
+2018/2019,MW55,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.05170370897514984,14
+2018/2019,MW56,HHS Region 3,Season onset,Bin,Delphi-Stat,-0.04969271710144649,15
+2018/2019,MW42,HHS Region 4,Season onset,Bin,Delphi-Stat,-1.0380696187610283,1
+2018/2019,MW43,HHS Region 4,Season onset,Bin,Delphi-Stat,-1.0414548606019711,2
+2018/2019,MW44,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.7419919221257159,3
+2018/2019,MW45,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.6233463335540335,4
+2018/2019,MW46,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.4772264370999147,5
+2018/2019,MW47,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.4340444835667067,6
+2018/2019,MW48,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.5246142900370784,7
+2018/2019,MW49,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.29977083334470417,8
+2018/2019,MW50,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.31311283124729705,9
+2018/2019,MW51,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.3759449780485705,10
+2018/2019,MW52,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.3706732275486206,11
+2018/2019,MW53,HHS Region 4,Season onset,Bin,Delphi-Stat,-0.31253556356358386,12
+2018/2019,MW42,HHS Region 5,Season onset,Bin,Delphi-Stat,-1.2780052746418484,1
+2018/2019,MW43,HHS Region 5,Season onset,Bin,Delphi-Stat,-1.2671010052867704,2
+2018/2019,MW44,HHS Region 5,Season onset,Bin,Delphi-Stat,-1.2853459321282503,3
+2018/2019,MW45,HHS Region 5,Season onset,Bin,Delphi-Stat,-1.262603051467975,4
+2018/2019,MW46,HHS Region 5,Season onset,Bin,Delphi-Stat,-1.4720880916781052,5
+2018/2019,MW47,HHS Region 5,Season onset,Bin,Delphi-Stat,-1.2049173200730239,6
+2018/2019,MW48,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.8941358989937591,7
+2018/2019,MW49,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.5072002363956248,8
+2018/2019,MW50,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.3822512990753968,9
+2018/2019,MW51,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.06768223724791715,10
+2018/2019,MW52,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.054059798582742034,11
+2018/2019,MW53,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.06847061506354736,12
+2018/2019,MW54,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.05271880676577026,13
+2018/2019,MW55,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.05938631848251244,14
+2018/2019,MW56,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.05096983696132972,15
+2018/2019,MW57,HHS Region 5,Season onset,Bin,Delphi-Stat,-0.06943838394343738,16
+2018/2019,MW42,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.5119076466468868,1
+2018/2019,MW43,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.3924121742228652,2
+2018/2019,MW44,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.4902251600152596,3
+2018/2019,MW45,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.4247085692809203,4
+2018/2019,MW46,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.4120008303245126,5
+2018/2019,MW47,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.331056511921629,6
+2018/2019,MW48,HHS Region 6,Season onset,Bin,Delphi-Stat,-1.029000618848527,7
+2018/2019,MW49,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.8595053085107242,8
+2018/2019,MW50,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.6709456192335085,9
+2018/2019,MW51,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.3825740694744863,10
+2018/2019,MW52,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.09960492787649791,11
+2018/2019,MW53,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.0502272258084326,12
+2018/2019,MW54,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.0537624720696975,13
+2018/2019,MW55,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.05203200411519815,14
+2018/2019,MW56,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.05001518702547205,15
+2018/2019,MW57,HHS Region 6,Season onset,Bin,Delphi-Stat,-0.047216111662163114,16
+2018/2019,MW42,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.5975001824734185,1
+2018/2019,MW43,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.2942859027099336,2
+2018/2019,MW44,HHS Region 7,Season onset,Bin,Delphi-Stat,-2.6628476209354623,3
+2018/2019,MW45,HHS Region 7,Season onset,Bin,Delphi-Stat,-2.3819566299434944,4
+2018/2019,MW46,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.0197920845401953,5
+2018/2019,MW47,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.1620939638855035,6
+2018/2019,MW48,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.5836648111014893,7
+2018/2019,MW49,HHS Region 7,Season onset,Bin,Delphi-Stat,-0.42414271809587356,8
+2018/2019,MW50,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.196421283396132,9
+2018/2019,MW51,HHS Region 7,Season onset,Bin,Delphi-Stat,-0.9979014614277072,10
+2018/2019,MW52,HHS Region 7,Season onset,Bin,Delphi-Stat,-1.2697339823726965,11
+2018/2019,MW53,HHS Region 7,Season onset,Bin,Delphi-Stat,-0.06866256120453278,12
+2018/2019,MW54,HHS Region 7,Season onset,Bin,Delphi-Stat,-0.06536714818479784,13
+2018/2019,MW55,HHS Region 7,Season onset,Bin,Delphi-Stat,-0.06409397235996074,14
+2018/2019,MW56,HHS Region 7,Season onset,Bin,Delphi-Stat,-0.0496189731817801,15
+2018/2019,MW42,HHS Region 8,Season onset,Bin,Delphi-Stat,-1.8183078065259826,1
+2018/2019,MW43,HHS Region 8,Season onset,Bin,Delphi-Stat,-1.8915594052993474,2
+2018/2019,MW44,HHS Region 8,Season onset,Bin,Delphi-Stat,-1.4686096606519066,3
+2018/2019,MW45,HHS Region 8,Season onset,Bin,Delphi-Stat,-1.2950821078047094,4
+2018/2019,MW46,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.8796948250717413,5
+2018/2019,MW47,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.5377028881893708,6
+2018/2019,MW48,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.07434245067359739,7
+2018/2019,MW49,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.04830046343726598,8
+2018/2019,MW50,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.052364408000961656,9
+2018/2019,MW51,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.054231057206019624,10
+2018/2019,MW52,HHS Region 8,Season onset,Bin,Delphi-Stat,-0.0554421226693423,11
+2018/2019,MW42,HHS Region 9,Season onset,Bin,Delphi-Stat,-1.1466049942429004,1
+2018/2019,MW43,HHS Region 9,Season onset,Bin,Delphi-Stat,-1.1179079476033087,2
+2018/2019,MW44,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.9220083649975139,3
+2018/2019,MW45,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.8761261198585312,4
+2018/2019,MW46,HHS Region 9,Season onset,Bin,Delphi-Stat,-1.3191841521871726,5
+2018/2019,MW47,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.7249129822902487,6
+2018/2019,MW48,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.3408324502742338,7
+2018/2019,MW49,HHS Region 9,Season onset,Bin,Delphi-Stat,-1.0147376455024846,8
+2018/2019,MW50,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.06516011119784156,9
+2018/2019,MW51,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.06912528358698776,10
+2018/2019,MW52,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.06291048914886417,11
+2018/2019,MW53,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.074550646705024,12
+2018/2019,MW54,HHS Region 9,Season onset,Bin,Delphi-Stat,-0.08430405620903304,13
+2018/2019,MW42,HHS Region 10,Season onset,Bin,Delphi-Stat,-1.164692958618487,1
+2018/2019,MW43,HHS Region 10,Season onset,Bin,Delphi-Stat,-1.2299761380190697,2
+2018/2019,MW44,HHS Region 10,Season onset,Bin,Delphi-Stat,-1.117188145170648,3
+2018/2019,MW45,HHS Region 10,Season onset,Bin,Delphi-Stat,-1.2150112715632126,4
+2018/2019,MW46,HHS Region 10,Season onset,Bin,Delphi-Stat,-1.035081909600346,5
+2018/2019,MW47,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.7858091507192527,6
+2018/2019,MW48,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.453149133736802,7
+2018/2019,MW49,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.41817260413552115,8
+2018/2019,MW50,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.28861203659331464,9
+2018/2019,MW51,HHS Region 10,Season onset,Bin,Delphi-Stat,-1.3096348036930927,10
+2018/2019,MW52,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.12648726887996758,11
+2018/2019,MW53,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.12919396592998103,12
+2018/2019,MW54,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.12508671045056588,13
+2018/2019,MW55,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.15754516342413313,14
+2018/2019,MW56,HHS Region 10,Season onset,Bin,Delphi-Stat,-0.11785496804543008,15
+2018/2019,MW42,US National,Season peak week,Bin,Delphi-Stat,-1.9079453897286158,1
+2018/2019,MW43,US National,Season peak week,Bin,Delphi-Stat,-2.169788635327827,2
+2018/2019,MW44,US National,Season peak week,Bin,Delphi-Stat,-1.9449527003182527,3
+2018/2019,MW45,US National,Season peak week,Bin,Delphi-Stat,-1.5918282209774213,4
+2018/2019,MW46,US National,Season peak week,Bin,Delphi-Stat,-1.515107027727341,5
+2018/2019,MW47,US National,Season peak week,Bin,Delphi-Stat,-1.5256661795596949,6
+2018/2019,MW48,US National,Season peak week,Bin,Delphi-Stat,-1.4300704626460887,7
+2018/2019,MW49,US National,Season peak week,Bin,Delphi-Stat,-1.3092081365209893,8
+2018/2019,MW50,US National,Season peak week,Bin,Delphi-Stat,-1.2545744625072928,9
+2018/2019,MW51,US National,Season peak week,Bin,Delphi-Stat,-1.310833433912175,10
+2018/2019,MW52,US National,Season peak week,Bin,Delphi-Stat,-1.4305478674736614,11
+2018/2019,MW53,US National,Season peak week,Bin,Delphi-Stat,-1.4653053758448715,12
+2018/2019,MW54,US National,Season peak week,Bin,Delphi-Stat,-1.5367960198507609,13
+2018/2019,MW55,US National,Season peak week,Bin,Delphi-Stat,-1.367708927720204,14
+2018/2019,MW56,US National,Season peak week,Bin,Delphi-Stat,-1.0605028582496505,15
+2018/2019,MW57,US National,Season peak week,Bin,Delphi-Stat,-0.5668579049580851,16
+2018/2019,MW58,US National,Season peak week,Bin,Delphi-Stat,-0.09381478387094995,17
+2018/2019,MW59,US National,Season peak week,Bin,Delphi-Stat,-0.17084417146453504,18
+2018/2019,MW60,US National,Season peak week,Bin,Delphi-Stat,-0.18388782732474213,19
+2018/2019,MW61,US National,Season peak week,Bin,Delphi-Stat,-0.028324983645654413,20
+2018/2019,MW62,US National,Season peak week,Bin,Delphi-Stat,-0.026499756617134797,21
+2018/2019,MW63,US National,Season peak week,Bin,Delphi-Stat,-0.02846326901534396,22
+2018/2019,MW64,US National,Season peak week,Bin,Delphi-Stat,-0.023499140545945162,23
+2018/2019,MW65,US National,Season peak week,Bin,Delphi-Stat,-0.020589182922468804,24
+2018/2019,MW66,US National,Season peak week,Bin,Delphi-Stat,-0.02049629208507314,25
+2018/2019,MW67,US National,Season peak week,Bin,Delphi-Stat,-0.02047125467290648,26
+2018/2019,MW68,US National,Season peak week,Bin,Delphi-Stat,-0.020725733581109573,27
+2018/2019,MW42,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.169227731268002,1
+2018/2019,MW43,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.187319379077088,2
+2018/2019,MW44,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.2734007457918133,3
+2018/2019,MW45,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.1315764023632369,4
+2018/2019,MW46,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.2467622737487927,5
+2018/2019,MW47,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.11508392577151,6
+2018/2019,MW48,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.1532511007340953,7
+2018/2019,MW49,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.6159291469174184,8
+2018/2019,MW50,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.1384651205336884,9
+2018/2019,MW51,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.2547329577200896,10
+2018/2019,MW52,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.306585526968852,11
+2018/2019,MW53,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.3267187022583389,12
+2018/2019,MW54,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.2372869156909445,13
+2018/2019,MW55,HHS Region 1,Season peak week,Bin,Delphi-Stat,-1.1884692341352883,14
+2018/2019,MW56,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.8117177861351298,15
+2018/2019,MW57,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.3945042764360008,16
+2018/2019,MW58,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.8705668325874442,17
+2018/2019,MW59,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.3384819617283947,18
+2018/2019,MW60,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.42309648158021296,19
+2018/2019,MW61,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.15949774518082852,20
+2018/2019,MW62,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.09240158687616036,21
+2018/2019,MW63,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.12044818659734317,22
+2018/2019,MW64,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.10129219988634924,23
+2018/2019,MW65,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.10565816042018666,24
+2018/2019,MW66,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.08568141901867886,25
+2018/2019,MW67,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.05384486116868143,26
+2018/2019,MW68,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.04819649122094499,27
+2018/2019,MW69,HHS Region 1,Season peak week,Bin,Delphi-Stat,-0.06159526425910635,28
+2018/2019,MW42,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.5821239602429393,1
+2018/2019,MW43,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.52069673185428,2
+2018/2019,MW44,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.563175638155184,3
+2018/2019,MW45,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.524833683218441,4
+2018/2019,MW46,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.5704567269222551,5
+2018/2019,MW47,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.5380410501600956,6
+2018/2019,MW48,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.594182332487889,7
+2018/2019,MW49,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.560603513209658,8
+2018/2019,MW50,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.5958568925682473,9
+2018/2019,MW51,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.6246897722211442,10
+2018/2019,MW52,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.602474317587716,11
+2018/2019,MW53,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.3051684188587378,12
+2018/2019,MW54,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.5978714269478855,13
+2018/2019,MW55,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.4404966023671695,14
+2018/2019,MW56,HHS Region 2,Season peak week,Bin,Delphi-Stat,-1.3616482254488311,15
+2018/2019,MW57,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.8603224375448224,16
+2018/2019,MW58,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.37457401458652845,17
+2018/2019,MW59,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.3726717734731811,18
+2018/2019,MW60,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.373123707806297,19
+2018/2019,MW61,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.1940495538352244,20
+2018/2019,MW62,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.1594284950283808,21
+2018/2019,MW63,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.12456095238861387,22
+2018/2019,MW64,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.17316442247156785,23
+2018/2019,MW65,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.1390768222789749,24
+2018/2019,MW66,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.12149788558407001,25
+2018/2019,MW67,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.06156822491769168,26
+2018/2019,MW68,HHS Region 2,Season peak week,Bin,Delphi-Stat,-0.06874748759663526,27
+2018/2019,MW42,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.7485343869693402,1
+2018/2019,MW43,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.667706254327686,2
+2018/2019,MW44,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.6399502745784382,3
+2018/2019,MW45,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.628472691966984,4
+2018/2019,MW46,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.6212243861917095,5
+2018/2019,MW47,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.6458720086356853,6
+2018/2019,MW48,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.5255411615310035,7
+2018/2019,MW49,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.4601539452155827,8
+2018/2019,MW50,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.4766009994773646,9
+2018/2019,MW51,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.6175930093799293,10
+2018/2019,MW52,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.489791108308448,11
+2018/2019,MW53,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.4362886257170915,12
+2018/2019,MW54,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.4639487537657911,13
+2018/2019,MW55,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.2677761610323124,14
+2018/2019,MW56,HHS Region 3,Season peak week,Bin,Delphi-Stat,-1.222863281004392,15
+2018/2019,MW57,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.9429561099100604,16
+2018/2019,MW58,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.9197651077510368,17
+2018/2019,MW59,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.3093913721859793,18
+2018/2019,MW60,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.26380387003105316,19
+2018/2019,MW61,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.23026285873007576,20
+2018/2019,MW62,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.12236835439343134,21
+2018/2019,MW63,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.15843267524047933,22
+2018/2019,MW64,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.042224916530335214,23
+2018/2019,MW65,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.027814418626645406,24
+2018/2019,MW66,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.023638266100960224,25
+2018/2019,MW67,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.020672686118193902,26
+2018/2019,MW68,HHS Region 3,Season peak week,Bin,Delphi-Stat,-0.020724204623623198,27
+2018/2019,MW42,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.283333337767821,1
+2018/2019,MW43,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.315029456872565,2
+2018/2019,MW44,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.3327981604382486,3
+2018/2019,MW45,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.3432833649457945,4
+2018/2019,MW46,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.3389258085658575,5
+2018/2019,MW47,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.3485095426673699,6
+2018/2019,MW48,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.2552845130429864,7
+2018/2019,MW49,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.3002724733177586,8
+2018/2019,MW50,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.2048294809078952,9
+2018/2019,MW51,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.3344783547882382,10
+2018/2019,MW52,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.266133412335611,11
+2018/2019,MW53,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.239611291047413,12
+2018/2019,MW54,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.568076632641768,13
+2018/2019,MW55,HHS Region 4,Season peak week,Bin,Delphi-Stat,-1.5690934987146918,14
+2018/2019,MW56,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.6623750656520754,15
+2018/2019,MW57,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.10846946551535874,16
+2018/2019,MW58,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.09327111675784135,17
+2018/2019,MW59,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.10008027339153937,18
+2018/2019,MW60,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.03387074088370405,19
+2018/2019,MW61,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.023934303884579074,20
+2018/2019,MW62,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.02420394995862821,21
+2018/2019,MW63,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.02487768929782916,22
+2018/2019,MW64,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.022419490204884696,23
+2018/2019,MW65,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.02005343237833923,24
+2018/2019,MW66,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.01995255445650942,25
+2018/2019,MW67,HHS Region 4,Season peak week,Bin,Delphi-Stat,-0.01992538034368324,26
+2018/2019,MW42,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.4606741350751817,1
+2018/2019,MW43,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.4457664530818146,2
+2018/2019,MW44,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.380571106881567,3
+2018/2019,MW45,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.391988621268954,4
+2018/2019,MW46,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.7215291724614747,5
+2018/2019,MW47,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.5860790193846217,6
+2018/2019,MW48,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.4627482476475566,7
+2018/2019,MW49,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.0833056906852456,8
+2018/2019,MW50,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.258935751174659,9
+2018/2019,MW51,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.5835036300257816,10
+2018/2019,MW52,HHS Region 5,Season peak week,Bin,Delphi-Stat,-3.351849758785152,11
+2018/2019,MW53,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.6107836749898157,12
+2018/2019,MW54,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.5324325041040896,13
+2018/2019,MW55,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.385963738915793,14
+2018/2019,MW56,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.111146582365994,15
+2018/2019,MW57,HHS Region 5,Season peak week,Bin,Delphi-Stat,-1.985669698085066,16
+2018/2019,MW58,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.0950706439799975,17
+2018/2019,MW59,HHS Region 5,Season peak week,Bin,Delphi-Stat,-2.0057135280713045,18
+2018/2019,MW60,HHS Region 5,Season peak week,Bin,Delphi-Stat,-1.2561998571798725,19
+2018/2019,MW61,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.743182371323187,20
+2018/2019,MW62,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.13989869196212698,21
+2018/2019,MW63,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.16494579399250187,22
+2018/2019,MW64,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.22953558601374224,23
+2018/2019,MW65,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.024272485096450504,24
+2018/2019,MW66,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.020494565555603306,25
+2018/2019,MW67,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.02046953454830214,26
+2018/2019,MW68,HHS Region 5,Season peak week,Bin,Delphi-Stat,-0.02072391654199966,27
+2018/2019,MW42,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.5412945839312062,1
+2018/2019,MW43,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.5656134960517194,2
+2018/2019,MW44,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.6537481529462412,3
+2018/2019,MW45,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.5809414936324573,4
+2018/2019,MW46,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.5971022343492067,5
+2018/2019,MW47,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.5877535875408406,6
+2018/2019,MW48,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.4489416598484528,7
+2018/2019,MW49,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.359816834452206,8
+2018/2019,MW50,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.305690717204211,9
+2018/2019,MW51,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.3667650514971064,10
+2018/2019,MW52,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.5553734162429373,11
+2018/2019,MW53,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.474637746769554,12
+2018/2019,MW54,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.4303664700349625,13
+2018/2019,MW55,HHS Region 6,Season peak week,Bin,Delphi-Stat,-1.2186146570528744,14
+2018/2019,MW56,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.9758364831261874,15
+2018/2019,MW57,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.6826227921598881,16
+2018/2019,MW58,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.11757966181398069,17
+2018/2019,MW59,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.11462876075009375,18
+2018/2019,MW60,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.05908358775252575,19
+2018/2019,MW61,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.037927168838477535,20
+2018/2019,MW62,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.027795953573451004,21
+2018/2019,MW63,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.025648115219142772,22
+2018/2019,MW64,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.02277029750275757,23
+2018/2019,MW65,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.020589188130092386,24
+2018/2019,MW66,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.02049630112884995,25
+2018/2019,MW67,HHS Region 6,Season peak week,Bin,Delphi-Stat,-0.020471255997717378,26
+2018/2019,MW42,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.057545452863669,1
+2018/2019,MW43,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.001099062556574,2
+2018/2019,MW44,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.626661388069793,3
+2018/2019,MW45,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.7084494740862035,4
+2018/2019,MW46,HHS Region 7,Season peak week,Bin,Delphi-Stat,-2.937948995557267,5
+2018/2019,MW47,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.308091312521784,6
+2018/2019,MW48,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.4716360276595966,7
+2018/2019,MW49,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.0092353904065248,8
+2018/2019,MW50,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.7738856048255722,9
+2018/2019,MW51,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.876973465992677,10
+2018/2019,MW52,HHS Region 7,Season peak week,Bin,Delphi-Stat,-4.761934906980249,11
+2018/2019,MW53,HHS Region 7,Season peak week,Bin,Delphi-Stat,-4.33049834613234,12
+2018/2019,MW54,HHS Region 7,Season peak week,Bin,Delphi-Stat,-4.243947840631063,13
+2018/2019,MW55,HHS Region 7,Season peak week,Bin,Delphi-Stat,-4.248507313445308,14
+2018/2019,MW56,HHS Region 7,Season peak week,Bin,Delphi-Stat,-4.191887311837839,15
+2018/2019,MW57,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.6495905583949177,16
+2018/2019,MW58,HHS Region 7,Season peak week,Bin,Delphi-Stat,-4.3776072351280355,17
+2018/2019,MW59,HHS Region 7,Season peak week,Bin,Delphi-Stat,-2.933592914521971,18
+2018/2019,MW60,HHS Region 7,Season peak week,Bin,Delphi-Stat,-2.8853775681254494,19
+2018/2019,MW61,HHS Region 7,Season peak week,Bin,Delphi-Stat,-3.93702056215471,20
+2018/2019,MW62,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.058681390424058,21
+2018/2019,MW63,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.06622849325707654,22
+2018/2019,MW64,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.0301695521888046,23
+2018/2019,MW65,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.02079877382260031,24
+2018/2019,MW66,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.020494569479629698,25
+2018/2019,MW67,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.02046953454830214,26
+2018/2019,MW68,HHS Region 7,Season peak week,Bin,Delphi-Stat,-0.02072391768988448,27
+2018/2019,MW42,HHS Region 8,Season peak week,Bin,Delphi-Stat,-1.9835423132824268,1
+2018/2019,MW43,HHS Region 8,Season peak week,Bin,Delphi-Stat,-1.8588293800294853,2
+2018/2019,MW44,HHS Region 8,Season peak week,Bin,Delphi-Stat,-1.8942551313616018,3
+2018/2019,MW45,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.09469655746733,4
+2018/2019,MW46,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.132844042923771,5
+2018/2019,MW47,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.379018819916686,6
+2018/2019,MW48,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.746094185156506,7
+2018/2019,MW49,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.847781310191173,8
+2018/2019,MW50,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.8035215466220293,9
+2018/2019,MW51,HHS Region 8,Season peak week,Bin,Delphi-Stat,-3.4517353503494497,10
+2018/2019,MW52,HHS Region 8,Season peak week,Bin,Delphi-Stat,-5.103982614689686,11
+2018/2019,MW53,HHS Region 8,Season peak week,Bin,Delphi-Stat,-4.344004444597677,12
+2018/2019,MW54,HHS Region 8,Season peak week,Bin,Delphi-Stat,-3.3214130786214624,13
+2018/2019,MW55,HHS Region 8,Season peak week,Bin,Delphi-Stat,-3.6700592507844343,14
+2018/2019,MW56,HHS Region 8,Season peak week,Bin,Delphi-Stat,-4.879176593804434,15
+2018/2019,MW57,HHS Region 8,Season peak week,Bin,Delphi-Stat,-3.291161324784309,16
+2018/2019,MW58,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.5782524727615184,17
+2018/2019,MW59,HHS Region 8,Season peak week,Bin,Delphi-Stat,-1.0331427470230212,18
+2018/2019,MW60,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.18617240515502903,19
+2018/2019,MW61,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.0841260937580049,20
+2018/2019,MW62,HHS Region 8,Season peak week,Bin,Delphi-Stat,-2.45684787994139,21
+2018/2019,MW63,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.02790097382238334,22
+2018/2019,MW64,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.027745586945523922,23
+2018/2019,MW65,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.022320693072372434,24
+2018/2019,MW66,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.027447956354501025,25
+2018/2019,MW67,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.02448514233134716,26
+2018/2019,MW68,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.020724204623623198,27
+2018/2019,MW69,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.020966666126428165,28
+2018/2019,MW70,HHS Region 8,Season peak week,Bin,Delphi-Stat,-0.021348557797291202,29
+2018/2019,MW42,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.6230153939592482,1
+2018/2019,MW43,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.5305491855522975,2
+2018/2019,MW44,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.6474431917093249,3
+2018/2019,MW45,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.7071269203854154,4
+2018/2019,MW46,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.357372305997014,5
+2018/2019,MW47,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.5667731016361541,6
+2018/2019,MW48,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.701857003142513,7
+2018/2019,MW49,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.4921287541431396,8
+2018/2019,MW50,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.6143691502784907,9
+2018/2019,MW51,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.4683990895899897,10
+2018/2019,MW52,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.3256894252269318,11
+2018/2019,MW53,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.1877175043145851,12
+2018/2019,MW54,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.0456349301378578,13
+2018/2019,MW55,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.2501216106199016,14
+2018/2019,MW56,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.9972175796612464,15
+2018/2019,MW57,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.6594068770902258,16
+2018/2019,MW58,HHS Region 9,Season peak week,Bin,Delphi-Stat,-1.10597294656175,17
+2018/2019,MW59,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.39619543440933824,18
+2018/2019,MW60,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.24326471163869862,19
+2018/2019,MW61,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.23846259749663323,20
+2018/2019,MW62,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.2004883154157958,21
+2018/2019,MW63,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.23564486324899656,22
+2018/2019,MW64,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.3611012019189729,23
+2018/2019,MW65,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.26293682691436837,24
+2018/2019,MW66,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.16741948119745487,25
+2018/2019,MW67,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.12466181753068763,26
+2018/2019,MW68,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.10626756453460162,27
+2018/2019,MW69,HHS Region 9,Season peak week,Bin,Delphi-Stat,-0.12075153060627782,28
+2018/2019,MW42,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.3894992534591033,1
+2018/2019,MW43,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.325989827938271,2
+2018/2019,MW44,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.5380841053148133,3
+2018/2019,MW45,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.4151192999507605,4
+2018/2019,MW46,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.448605081132887,5
+2018/2019,MW47,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.428201104158528,6
+2018/2019,MW48,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.325632287551418,7
+2018/2019,MW49,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.3514391590997086,8
+2018/2019,MW50,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.288119699697064,9
+2018/2019,MW51,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.1706811970606226,10
+2018/2019,MW52,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.253724331556277,11
+2018/2019,MW53,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.17488596941652,12
+2018/2019,MW54,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.1072374952593638,13
+2018/2019,MW55,HHS Region 10,Season peak week,Bin,Delphi-Stat,-1.9998048474753547,14
+2018/2019,MW56,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.062348360501507,15
+2018/2019,MW57,HHS Region 10,Season peak week,Bin,Delphi-Stat,-2.020894816025739,16
+2018/2019,MW58,HHS Region 10,Season peak week,Bin,Delphi-Stat,-1.9854551128817342,17
+2018/2019,MW59,HHS Region 10,Season peak week,Bin,Delphi-Stat,-1.8157160583053467,18
+2018/2019,MW60,HHS Region 10,Season peak week,Bin,Delphi-Stat,-1.6648887680645637,19
+2018/2019,MW61,HHS Region 10,Season peak week,Bin,Delphi-Stat,-1.7789697888442941,20
+2018/2019,MW62,HHS Region 10,Season peak week,Bin,Delphi-Stat,-0.420275934545681,21
+2018/2019,MW63,HHS Region 10,Season peak week,Bin,Delphi-Stat,-0.2777994790182057,22
+2018/2019,MW64,HHS Region 10,Season peak week,Bin,Delphi-Stat,-0.3929016854958025,23
+2018/2019,MW65,HHS Region 10,Season peak week,Bin,Delphi-Stat,-0.11562463909811875,24
+2018/2019,MW66,HHS Region 10,Season peak week,Bin,Delphi-Stat,-0.03660378726740089,25
+2018/2019,MW67,HHS Region 10,Season peak week,Bin,Delphi-Stat,-0.022088378990723474,26
+2018/2019,MW42,US National,Season peak percentage,Bin,Delphi-Stat,-1.5447461921992196,1
+2018/2019,MW43,US National,Season peak percentage,Bin,Delphi-Stat,-1.6570800410697144,2
+2018/2019,MW44,US National,Season peak percentage,Bin,Delphi-Stat,-1.5666924488974294,3
+2018/2019,MW45,US National,Season peak percentage,Bin,Delphi-Stat,-1.6150163186194482,4
+2018/2019,MW46,US National,Season peak percentage,Bin,Delphi-Stat,-1.5290071366679097,5
+2018/2019,MW47,US National,Season peak percentage,Bin,Delphi-Stat,-1.4919995207131955,6
+2018/2019,MW48,US National,Season peak percentage,Bin,Delphi-Stat,-1.4852376108390362,7
+2018/2019,MW49,US National,Season peak percentage,Bin,Delphi-Stat,-1.5230722951227147,8
+2018/2019,MW50,US National,Season peak percentage,Bin,Delphi-Stat,-1.5152328377659592,9
+2018/2019,MW51,US National,Season peak percentage,Bin,Delphi-Stat,-1.3036640733293596,10
+2018/2019,MW52,US National,Season peak percentage,Bin,Delphi-Stat,-1.320776349715828,11
+2018/2019,MW53,US National,Season peak percentage,Bin,Delphi-Stat,-1.7709621763331944,12
+2018/2019,MW54,US National,Season peak percentage,Bin,Delphi-Stat,-2.1383551398699496,13
+2018/2019,MW55,US National,Season peak percentage,Bin,Delphi-Stat,-1.9222954299347428,14
+2018/2019,MW56,US National,Season peak percentage,Bin,Delphi-Stat,-1.536947162451457,15
+2018/2019,MW57,US National,Season peak percentage,Bin,Delphi-Stat,-0.8464098638988259,16
+2018/2019,MW58,US National,Season peak percentage,Bin,Delphi-Stat,-0.12720541295183482,17
+2018/2019,MW59,US National,Season peak percentage,Bin,Delphi-Stat,-0.08580663674582757,18
+2018/2019,MW60,US National,Season peak percentage,Bin,Delphi-Stat,-0.040949923571527935,19
+2018/2019,MW61,US National,Season peak percentage,Bin,Delphi-Stat,-0.040471469760721204,20
+2018/2019,MW62,US National,Season peak percentage,Bin,Delphi-Stat,-0.03995810388727176,21
+2018/2019,MW63,US National,Season peak percentage,Bin,Delphi-Stat,-0.04011408695903351,22
+2018/2019,MW64,US National,Season peak percentage,Bin,Delphi-Stat,-0.03772613765900142,23
+2018/2019,MW65,US National,Season peak percentage,Bin,Delphi-Stat,-0.03767252400883108,24
+2018/2019,MW66,US National,Season peak percentage,Bin,Delphi-Stat,-0.0381957084276967,25
+2018/2019,MW67,US National,Season peak percentage,Bin,Delphi-Stat,-0.0389937013943597,26
+2018/2019,MW68,US National,Season peak percentage,Bin,Delphi-Stat,-0.03842732542996879,27
+2018/2019,MW42,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.7381780080526268,1
+2018/2019,MW43,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.6960458801691563,2
+2018/2019,MW44,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.7640901837776894,3
+2018/2019,MW45,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.6724331423241168,4
+2018/2019,MW46,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.6282282423139978,5
+2018/2019,MW47,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.565189824317654,6
+2018/2019,MW48,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.450279631374265,7
+2018/2019,MW49,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.356343013667955,8
+2018/2019,MW50,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.3493772564172177,9
+2018/2019,MW51,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.367081333031886,10
+2018/2019,MW52,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-1.0651006784446242,11
+2018/2019,MW53,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.8824746970188588,12
+2018/2019,MW54,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.3715516669632167,13
+2018/2019,MW55,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.3356829487526903,14
+2018/2019,MW56,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.35866216471614015,15
+2018/2019,MW57,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.2794128795682241,16
+2018/2019,MW58,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.24227258396299065,17
+2018/2019,MW59,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.11326210903280666,18
+2018/2019,MW60,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.06453306286791871,19
+2018/2019,MW61,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.04755315913196765,20
+2018/2019,MW62,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.04375610048847567,21
+2018/2019,MW63,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.049055192388218684,22
+2018/2019,MW64,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.04127448769508838,23
+2018/2019,MW65,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.03904962505800544,24
+2018/2019,MW66,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.040573323011516685,25
+2018/2019,MW67,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.03831496788200756,26
+2018/2019,MW68,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.037804005277904076,27
+2018/2019,MW69,HHS Region 1,Season peak percentage,Bin,Delphi-Stat,-0.03843150391683151,28
+2018/2019,MW42,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.7575471586308418,1
+2018/2019,MW43,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.6470420816829798,2
+2018/2019,MW44,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.5928315538343485,3
+2018/2019,MW45,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.52307563309962,4
+2018/2019,MW46,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.6511612322226845,5
+2018/2019,MW47,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.4026240293848276,6
+2018/2019,MW48,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.3812766564956225,7
+2018/2019,MW49,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.319792593560177,8
+2018/2019,MW50,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.2664006773998393,9
+2018/2019,MW51,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.231240931178619,10
+2018/2019,MW52,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-1.14215166783418,11
+2018/2019,MW53,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.7780946406751261,12
+2018/2019,MW54,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.49785992394467093,13
+2018/2019,MW55,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.47535059372337296,14
+2018/2019,MW56,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.33139527227066334,15
+2018/2019,MW57,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.39758031457825943,16
+2018/2019,MW58,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.32990321751331164,17
+2018/2019,MW59,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.34930652112334415,18
+2018/2019,MW60,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.1396763797297145,19
+2018/2019,MW61,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.07688435321075998,20
+2018/2019,MW62,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.08036178510183141,21
+2018/2019,MW63,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.05699422216290963,22
+2018/2019,MW64,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.08497892459810301,23
+2018/2019,MW65,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.082366000442783055,24
+2018/2019,MW66,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.07397763984531533,25
+2018/2019,MW67,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.051894008286039774,26
+2018/2019,MW68,HHS Region 2,Season peak percentage,Bin,Delphi-Stat,-0.04280576199775204,27
+2018/2019,MW42,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.7265783935338963,1
+2018/2019,MW43,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.738787839329245,2
+2018/2019,MW44,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.7058502063736265,3
+2018/2019,MW45,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.6149749742482653,4
+2018/2019,MW46,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.603182365335524,5
+2018/2019,MW47,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.5386006415500382,6
+2018/2019,MW48,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.4793781777585535,7
+2018/2019,MW49,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.446791160080528,8
+2018/2019,MW50,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.4440552449185025,9
+2018/2019,MW51,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.5682731205239377,10
+2018/2019,MW52,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.509323787960982,11
+2018/2019,MW53,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.407912381306652,12
+2018/2019,MW54,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.675033321943866,13
+2018/2019,MW55,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.5660307522782844,14
+2018/2019,MW56,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.2054239860093428,15
+2018/2019,MW57,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-1.0689964447571036,16
+2018/2019,MW58,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.3967738079425241,17
+2018/2019,MW59,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.41563788387728984,18
+2018/2019,MW60,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.2974319307000418,19
+2018/2019,MW61,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.13194008657823975,20
+2018/2019,MW62,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.07195119459455745,21
+2018/2019,MW63,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.06740868600834019,22
+2018/2019,MW64,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.042580223195785284,23
+2018/2019,MW65,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.03991707531413572,24
+2018/2019,MW66,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.0384963713993648,25
+2018/2019,MW67,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.037621057691089116,26
+2018/2019,MW68,HHS Region 3,Season peak percentage,Bin,Delphi-Stat,-0.03706821502377877,27
+2018/2019,MW42,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.91160967073081,1
+2018/2019,MW43,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.8964668783058334,2
+2018/2019,MW44,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.8318957310329071,3
+2018/2019,MW45,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.737550869075404,4
+2018/2019,MW46,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.7372535564385077,5
+2018/2019,MW47,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.8725496546503086,6
+2018/2019,MW48,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-2.056643647140037,7
+2018/2019,MW49,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.966383692302403,8
+2018/2019,MW50,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-2.1161267186489234,9
+2018/2019,MW51,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.9981901292945554,10
+2018/2019,MW52,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.8845200836220777,11
+2018/2019,MW53,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-2.4406804240356896,12
+2018/2019,MW54,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-2.946498818386911,13
+2018/2019,MW55,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-2.645770867231264,14
+2018/2019,MW56,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.9555183685007824,15
+2018/2019,MW57,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-1.2604743244080991,16
+2018/2019,MW58,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.1992358400953157,17
+2018/2019,MW59,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.07091417583133783,18
+2018/2019,MW60,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.04593344236581508,19
+2018/2019,MW61,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.04228979532349553,20
+2018/2019,MW62,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.041874482063718514,21
+2018/2019,MW63,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.04131671131477578,22
+2018/2019,MW64,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.039562223557393875,23
+2018/2019,MW65,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.03960998087967468,24
+2018/2019,MW66,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.040284037980310064,25
+2018/2019,MW67,HHS Region 4,Season peak percentage,Bin,Delphi-Stat,-0.04123284014584753,26
+2018/2019,MW42,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.4482565517431996,1
+2018/2019,MW43,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.3910404153838158,2
+2018/2019,MW44,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.4773552472693192,3
+2018/2019,MW45,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.3487031426523304,4
+2018/2019,MW46,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.3912296658372734,5
+2018/2019,MW47,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.3167559926852337,6
+2018/2019,MW48,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.2335715681366262,7
+2018/2019,MW49,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.06960761924368,8
+2018/2019,MW50,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.0854750639048953,9
+2018/2019,MW51,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.0232089564999418,10
+2018/2019,MW52,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.6822459737762127,11
+2018/2019,MW53,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.4959786823454423,12
+2018/2019,MW54,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.5440000400882438,13
+2018/2019,MW55,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.558279602510066,14
+2018/2019,MW56,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.6747560534392377,15
+2018/2019,MW57,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.7822020881777803,16
+2018/2019,MW58,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.900684553041937,17
+2018/2019,MW59,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-1.0693694220123888,18
+2018/2019,MW60,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.5768467163556463,19
+2018/2019,MW61,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.09023234406882726,20
+2018/2019,MW62,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.05596237498634674,21
+2018/2019,MW63,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.09026478227404375,22
+2018/2019,MW64,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.0613210080365249,23
+2018/2019,MW65,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.034923887129497275,24
+2018/2019,MW66,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.03516482852527131,25
+2018/2019,MW67,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.03522978643747601,26
+2018/2019,MW68,HHS Region 5,Season peak percentage,Bin,Delphi-Stat,-0.0346746124630285,27
+2018/2019,MW42,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.3072031660767305,1
+2018/2019,MW43,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.367860977531276,2
+2018/2019,MW44,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.3361730842450146,3
+2018/2019,MW45,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.357420179006494,4
+2018/2019,MW46,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.2309443674942875,5
+2018/2019,MW47,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.37393352600093,6
+2018/2019,MW48,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.5146764356018996,7
+2018/2019,MW49,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.5078653214294726,8
+2018/2019,MW50,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.4972759756591874,9
+2018/2019,MW51,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.4666010165077847,10
+2018/2019,MW52,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.3954716949338617,11
+2018/2019,MW53,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-3.0671004681837974,12
+2018/2019,MW54,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-3.425413204078727,13
+2018/2019,MW55,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-3.3634218783753065,14
+2018/2019,MW56,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.703713535398403,15
+2018/2019,MW57,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-2.5078691533240223,16
+2018/2019,MW58,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.43160462929884486,17
+2018/2019,MW59,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.17818078479669602,18
+2018/2019,MW60,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.07958976968437101,19
+2018/2019,MW61,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.05935317452043782,20
+2018/2019,MW62,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.05359000842459413,21
+2018/2019,MW63,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.051095093477888674,22
+2018/2019,MW64,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.04801441129411078,23
+2018/2019,MW65,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.04845524483565616,24
+2018/2019,MW66,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.04967769840499925,25
+2018/2019,MW67,HHS Region 6,Season peak percentage,Bin,Delphi-Stat,-0.05143271034432037,26
+2018/2019,MW42,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.9994174375054912,1
+2018/2019,MW43,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.092302838005728,2
+2018/2019,MW44,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.1798864701577467,3
+2018/2019,MW45,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.023989583733039,4
+2018/2019,MW46,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.0479410625271743,5
+2018/2019,MW47,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.8718750950460976,6
+2018/2019,MW48,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.9479363083024093,7
+2018/2019,MW49,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.0499693258509493,8
+2018/2019,MW50,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.7284988019754792,9
+2018/2019,MW51,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.8425518828187035,10
+2018/2019,MW52,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.3514538303077206,11
+2018/2019,MW53,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.195398674588131,12
+2018/2019,MW54,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.103029014677646,13
+2018/2019,MW55,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.974936713543288,14
+2018/2019,MW56,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.1527051237996866,15
+2018/2019,MW57,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-1.9440504199720934,16
+2018/2019,MW58,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-3.4265044753349687,17
+2018/2019,MW59,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.5695589795775851,18
+2018/2019,MW60,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.19373023006017573,19
+2018/2019,MW61,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.2194515190749937,20
+2018/2019,MW62,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.7635853076939925,21
+2018/2019,MW63,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-2.5494925242550437,22
+2018/2019,MW64,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.09191447383019427,23
+2018/2019,MW65,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.0413628779394152,24
+2018/2019,MW66,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.03974749299746724,25
+2018/2019,MW67,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.04060234841838073,26
+2018/2019,MW68,HHS Region 7,Season peak percentage,Bin,Delphi-Stat,-0.04001936141292904,27
+2018/2019,MW42,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.8065072587445745,1
+2018/2019,MW43,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.5605658565232656,2
+2018/2019,MW44,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.4988357982047433,3
+2018/2019,MW45,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.189509602611636,4
+2018/2019,MW46,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.494580439350606,5
+2018/2019,MW47,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.889216479190578,6
+2018/2019,MW48,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.9517727960219813,7
+2018/2019,MW49,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-3.381826010536365,8
+2018/2019,MW50,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-3.1702007500079845,9
+2018/2019,MW51,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-1.7467067858756293,10
+2018/2019,MW52,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.4166469784800068,11
+2018/2019,MW53,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.553259754253225,12
+2018/2019,MW54,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-3.2470416365865837,13
+2018/2019,MW55,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-4.486738789071902,14
+2018/2019,MW56,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.07839050264148878,15
+2018/2019,MW57,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.11648962485424463,16
+2018/2019,MW58,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.07063835772293889,17
+2018/2019,MW59,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.08597688815263585,18
+2018/2019,MW60,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-2.731153273674158,19
+2018/2019,MW61,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.04536670041030534,20
+2018/2019,MW62,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.17019890726627235,21
+2018/2019,MW63,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.04159311630211814,22
+2018/2019,MW64,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.03992426003227417,23
+2018/2019,MW65,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.039606352159328305,24
+2018/2019,MW66,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.040257968034679834,25
+2018/2019,MW67,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.04116697928497569,26
+2018/2019,MW68,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.040582119137872935,27
+2018/2019,MW69,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.03900072480042921,28
+2018/2019,MW70,HHS Region 8,Season peak percentage,Bin,Delphi-Stat,-0.03817491056621316,29
+2018/2019,MW42,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.4596731275133785,1
+2018/2019,MW43,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.410310416583386,2
+2018/2019,MW44,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.3487360110920024,3
+2018/2019,MW45,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.4401182606613785,4
+2018/2019,MW46,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.3731958893692953,5
+2018/2019,MW47,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.2869107956029382,6
+2018/2019,MW48,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.3522912526997102,7
+2018/2019,MW49,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.2952518366348122,8
+2018/2019,MW50,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.2924008057113112,9
+2018/2019,MW51,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-1.2274009625589815,10
+2018/2019,MW52,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.9541659761999023,11
+2018/2019,MW53,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.7736813336395642,12
+2018/2019,MW54,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.8105555577689008,13
+2018/2019,MW55,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.3840053014412492,14
+2018/2019,MW56,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.35464642007862135,15
+2018/2019,MW57,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.3645474741470011,16
+2018/2019,MW58,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.20768463775668716,17
+2018/2019,MW59,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.20885634625983454,18
+2018/2019,MW60,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.211314435916458,19
+2018/2019,MW61,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.1946278054197863,20
+2018/2019,MW62,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.2056190255075585,21
+2018/2019,MW63,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.14111612994253261,22
+2018/2019,MW64,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.11785338485346344,23
+2018/2019,MW65,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.0859473700434097,24
+2018/2019,MW66,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.08739280607362837,25
+2018/2019,MW67,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.08053176250060617,26
+2018/2019,MW68,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.048147646286902136,27
+2018/2019,MW69,HHS Region 9,Season peak percentage,Bin,Delphi-Stat,-0.06553091977116321,28
+2018/2019,MW42,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.5518823789998504,1
+2018/2019,MW43,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.574658004385519,2
+2018/2019,MW44,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.556488270953465,3
+2018/2019,MW45,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.581792872404178,4
+2018/2019,MW46,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.6030231742116832,5
+2018/2019,MW47,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.5252574883485026,6
+2018/2019,MW48,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.6261527935156572,7
+2018/2019,MW49,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.5648111415781503,8
+2018/2019,MW50,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.6018208503611975,9
+2018/2019,MW51,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.6415101055563974,10
+2018/2019,MW52,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.7749355791434385,11
+2018/2019,MW53,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.833587556804725,12
+2018/2019,MW54,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.83205722740215,13
+2018/2019,MW55,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-2.1684518543599487,14
+2018/2019,MW56,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.94600098856463,15
+2018/2019,MW57,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-2.1601333823740045,16
+2018/2019,MW58,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-2.585999623198985,17
+2018/2019,MW59,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.284102022732915,18
+2018/2019,MW60,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.508879460931115,19
+2018/2019,MW61,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-1.8650947523742074,20
+2018/2019,MW62,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-0.5683905246459494,21
+2018/2019,MW63,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-0.35556624189519503,22
+2018/2019,MW64,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-0.20736055776251694,23
+2018/2019,MW65,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-0.1319330420435925,24
+2018/2019,MW66,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-0.06469502393172197,25
+2018/2019,MW67,HHS Region 10,Season peak percentage,Bin,Delphi-Stat,-0.066208483971145,26
+2018/2019,MW45,US National,1 wk ahead,Bin,Delphi-Stat,-0.0778688776458785,4
+2018/2019,MW46,US National,1 wk ahead,Bin,Delphi-Stat,-0.05624131329175404,5
+2018/2019,MW47,US National,1 wk ahead,Bin,Delphi-Stat,-0.4836290444159289,6
+2018/2019,MW48,US National,1 wk ahead,Bin,Delphi-Stat,-0.17874042044934924,7
+2018/2019,MW49,US National,1 wk ahead,Bin,Delphi-Stat,-0.1627329109980841,8
+2018/2019,MW50,US National,1 wk ahead,Bin,Delphi-Stat,-0.3656387983174369,9
+2018/2019,MW51,US National,1 wk ahead,Bin,Delphi-Stat,-0.47236352339778037,10
+2018/2019,MW52,US National,1 wk ahead,Bin,Delphi-Stat,-0.37327184955119846,11
+2018/2019,MW53,US National,1 wk ahead,Bin,Delphi-Stat,-0.2920273930646022,12
+2018/2019,MW54,US National,1 wk ahead,Bin,Delphi-Stat,-0.21506817229572067,13
+2018/2019,MW55,US National,1 wk ahead,Bin,Delphi-Stat,-0.4303706350710598,14
+2018/2019,MW56,US National,1 wk ahead,Bin,Delphi-Stat,-0.48398528611151975,15
+2018/2019,MW57,US National,1 wk ahead,Bin,Delphi-Stat,-0.6931341266480048,16
+2018/2019,MW58,US National,1 wk ahead,Bin,Delphi-Stat,-0.9376978233169833,17
+2018/2019,MW59,US National,1 wk ahead,Bin,Delphi-Stat,-0.30669916586392676,18
+2018/2019,MW60,US National,1 wk ahead,Bin,Delphi-Stat,-0.2809900525230109,19
+2018/2019,MW61,US National,1 wk ahead,Bin,Delphi-Stat,-0.20016044781044506,20
+2018/2019,MW62,US National,1 wk ahead,Bin,Delphi-Stat,-0.15439020749026874,21
+2018/2019,MW63,US National,1 wk ahead,Bin,Delphi-Stat,-0.4377399191601739,22
+2018/2019,MW64,US National,1 wk ahead,Bin,Delphi-Stat,-0.25265188251675996,23
+2018/2019,MW65,US National,1 wk ahead,Bin,Delphi-Stat,-0.06907585264134418,24
+2018/2019,MW66,US National,1 wk ahead,Bin,Delphi-Stat,-0.04766509094198434,25
+2018/2019,MW67,US National,1 wk ahead,Bin,Delphi-Stat,-0.03851711304445484,26
+2018/2019,MW68,US National,1 wk ahead,Bin,Delphi-Stat,-0.042912894905288886,27
+2018/2019,MW69,US National,1 wk ahead,Bin,Delphi-Stat,-0.029712634329984923,28
+2018/2019,MW70,US National,1 wk ahead,Bin,Delphi-Stat,-0.029082327085017488,29
+2018/2019,MW45,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.043466689858708676,4
+2018/2019,MW46,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.059325399431111474,5
+2018/2019,MW47,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.23017991805701135,6
+2018/2019,MW48,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.08197890086714484,7
+2018/2019,MW49,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.31825603969528393,8
+2018/2019,MW50,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.2914163222065014,9
+2018/2019,MW51,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.8578600318017836,10
+2018/2019,MW52,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.3590605174293123,11
+2018/2019,MW53,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.34841505304569653,12
+2018/2019,MW54,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.5365207103195131,13
+2018/2019,MW55,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.35680006860115865,14
+2018/2019,MW56,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.36729689976980157,15
+2018/2019,MW57,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.4592276569799951,16
+2018/2019,MW58,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.3459940175913437,17
+2018/2019,MW59,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.2914143378084287,18
+2018/2019,MW60,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.2920173328843264,19
+2018/2019,MW61,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.18704814251941587,20
+2018/2019,MW62,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.10264460350134172,21
+2018/2019,MW63,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.1799866879633995,22
+2018/2019,MW64,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.18031857223363407,23
+2018/2019,MW65,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.18946450320509708,24
+2018/2019,MW66,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.2177445160426831,25
+2018/2019,MW67,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.08772122633206045,26
+2018/2019,MW68,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.4937220892381764,27
+2018/2019,MW69,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.03473349777284013,28
+2018/2019,MW70,HHS Region 1,1 wk ahead,Bin,Delphi-Stat,-0.04663908873676623,29
+2018/2019,MW45,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.21811647996505898,4
+2018/2019,MW46,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.5325315496395839,5
+2018/2019,MW47,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.61341463188324,6
+2018/2019,MW48,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.3788386013324304,7
+2018/2019,MW49,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.5667041154009793,8
+2018/2019,MW50,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.8564052218893291,9
+2018/2019,MW51,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.9523853539712539,10
+2018/2019,MW52,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.686775784784638,11
+2018/2019,MW53,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-1.0621462515749467,12
+2018/2019,MW54,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.692780083821986,13
+2018/2019,MW55,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.40174658469602265,14
+2018/2019,MW56,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.4433894998622678,15
+2018/2019,MW57,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.6297148537000749,16
+2018/2019,MW58,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.549974540608146,17
+2018/2019,MW59,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.6301052129009695,18
+2018/2019,MW60,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.601276465773131,19
+2018/2019,MW61,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.3900339663626924,20
+2018/2019,MW62,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.434120874247599,21
+2018/2019,MW63,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.3494611093225751,22
+2018/2019,MW64,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.4215577354114155,23
+2018/2019,MW65,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.21635128646241314,24
+2018/2019,MW66,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.22433136451733782,25
+2018/2019,MW67,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.2590789579319428,26
+2018/2019,MW68,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.40762637912756966,27
+2018/2019,MW69,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.2496875212104123,28
+2018/2019,MW70,HHS Region 2,1 wk ahead,Bin,Delphi-Stat,-0.1370564917692968,29
+2018/2019,MW46,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.10717055977647522,5
+2018/2019,MW47,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.4986187648528781,6
+2018/2019,MW48,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.18497906201031766,7
+2018/2019,MW49,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.18050022580011282,8
+2018/2019,MW50,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.2673083316070122,9
+2018/2019,MW51,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.8706594236870543,10
+2018/2019,MW52,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.4682877421697558,11
+2018/2019,MW53,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.3769325670967945,12
+2018/2019,MW54,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.7674226861177801,13
+2018/2019,MW55,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.470185300899373,14
+2018/2019,MW56,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.44249385344770875,15
+2018/2019,MW57,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.5307997007722504,16
+2018/2019,MW58,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.583864669781106,17
+2018/2019,MW59,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.39485982877320697,18
+2018/2019,MW60,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.4051681524622341,19
+2018/2019,MW61,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.3861132190515355,20
+2018/2019,MW62,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.6085285205443554,21
+2018/2019,MW63,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.4562824113291627,22
+2018/2019,MW64,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.21372536149029892,23
+2018/2019,MW65,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.3301266047854393,24
+2018/2019,MW66,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.33758035015160015,25
+2018/2019,MW67,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.18048067170467313,26
+2018/2019,MW68,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.18044760132801493,27
+2018/2019,MW69,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.06592561837579955,28
+2018/2019,MW70,HHS Region 3,1 wk ahead,Bin,Delphi-Stat,-0.07369747865006669,29
+2018/2019,MW43,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.05691680704097416,2
+2018/2019,MW44,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.06976812470495643,3
+2018/2019,MW45,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.07565718647446666,4
+2018/2019,MW46,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.19278299569003707,5
+2018/2019,MW47,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.5909720304121411,6
+2018/2019,MW48,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.2020359048040853,7
+2018/2019,MW49,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.3808976616148956,8
+2018/2019,MW50,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.4640733625107838,9
+2018/2019,MW51,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.8517432357175029,10
+2018/2019,MW52,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.5168226723066409,11
+2018/2019,MW53,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.568243972639853,12
+2018/2019,MW54,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.4337747028074713,13
+2018/2019,MW55,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-1.6594752000134712,14
+2018/2019,MW56,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-1.1985828691743177,15
+2018/2019,MW57,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-1.699128963871477,16
+2018/2019,MW58,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.8143691881728875,17
+2018/2019,MW59,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.6524140370807824,18
+2018/2019,MW60,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.4565365348718019,19
+2018/2019,MW61,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.5418942380718752,20
+2018/2019,MW62,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.4807217950365879,21
+2018/2019,MW63,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.30085445328121,22
+2018/2019,MW64,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.1570036822670073,23
+2018/2019,MW65,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.07116350213749065,24
+2018/2019,MW66,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.058855803083401,25
+2018/2019,MW67,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.06542265109514211,26
+2018/2019,MW68,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.04419613396227273,27
+2018/2019,MW69,HHS Region 4,1 wk ahead,Bin,Delphi-Stat,-0.04479062856249664,28
+2018/2019,MW47,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.2700104204044681,6
+2018/2019,MW48,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.11013545373429823,7
+2018/2019,MW49,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.15173426708403623,8
+2018/2019,MW50,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.2936602054267305,9
+2018/2019,MW51,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.5107537441072351,10
+2018/2019,MW52,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-1.9795060304470982,11
+2018/2019,MW53,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.1541103814362502,12
+2018/2019,MW54,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.9130919121661959,13
+2018/2019,MW55,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.17835893515260864,14
+2018/2019,MW56,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.29290937534921174,15
+2018/2019,MW57,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.4207248932495984,16
+2018/2019,MW58,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.1428271260616806,17
+2018/2019,MW59,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.430959268281434,18
+2018/2019,MW60,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.22448956475753654,19
+2018/2019,MW61,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.3405648041916365,20
+2018/2019,MW62,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.5443945736759668,21
+2018/2019,MW63,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.497447929724959,22
+2018/2019,MW64,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.8877136329014395,23
+2018/2019,MW65,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.19554899984912316,24
+2018/2019,MW66,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.06167494449457232,25
+2018/2019,MW67,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.03439211563830261,26
+2018/2019,MW68,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.030072726551130222,27
+2018/2019,MW69,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.03647490157875833,28
+2018/2019,MW70,HHS Region 5,1 wk ahead,Bin,Delphi-Stat,-0.026553212043643467,29
+2018/2019,MW47,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.598338924326585,6
+2018/2019,MW48,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.9553065883627404,7
+2018/2019,MW49,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.8333465217369147,8
+2018/2019,MW50,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.8370459199348874,9
+2018/2019,MW51,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.3513811439143641,10
+2018/2019,MW52,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.1573652298107615,11
+2018/2019,MW53,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.063963833179215,12
+2018/2019,MW54,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.1564846739985268,13
+2018/2019,MW55,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.743538863897417,14
+2018/2019,MW56,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-2.1629036654949605,15
+2018/2019,MW57,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-2.6897284475678065,16
+2018/2019,MW58,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.4121329924571173,17
+2018/2019,MW59,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.155771313093343,18
+2018/2019,MW60,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.1945341341597193,19
+2018/2019,MW61,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.9891351720521651,20
+2018/2019,MW62,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.8383208920414624,21
+2018/2019,MW63,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-1.691783304929394,22
+2018/2019,MW64,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.40743196758089256,23
+2018/2019,MW65,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.2626037261695437,24
+2018/2019,MW66,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.2913528054028841,25
+2018/2019,MW67,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.16804379473310085,26
+2018/2019,MW68,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.17809847199243883,27
+2018/2019,MW69,HHS Region 6,1 wk ahead,Bin,Delphi-Stat,-0.12181755404652006,28
+2018/2019,MW46,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.13447188818198025,5
+2018/2019,MW47,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.35177791108046963,6
+2018/2019,MW48,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.714366660951661,7
+2018/2019,MW49,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.42704310179451005,8
+2018/2019,MW50,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.106538508480481,9
+2018/2019,MW51,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.0910046862189888,10
+2018/2019,MW52,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-2.3725268815030938,11
+2018/2019,MW53,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.8336817707275902,12
+2018/2019,MW54,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.41102846665416026,13
+2018/2019,MW55,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.6896014517438387,14
+2018/2019,MW56,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.7108380183722735,15
+2018/2019,MW57,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.6928235089557114,16
+2018/2019,MW58,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.7716502361101498,17
+2018/2019,MW59,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.8690751354525049,18
+2018/2019,MW60,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.5671700938555002,19
+2018/2019,MW61,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.489248833900991,20
+2018/2019,MW62,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.0912164035122798,21
+2018/2019,MW63,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.9384203787225738,22
+2018/2019,MW64,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.4850054173448885,23
+2018/2019,MW65,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-1.9563843393369216,24
+2018/2019,MW66,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.47900836007766523,25
+2018/2019,MW67,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.4325200984166171,26
+2018/2019,MW68,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.05348558779869268,27
+2018/2019,MW69,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.05503039810682613,28
+2018/2019,MW70,HHS Region 7,1 wk ahead,Bin,Delphi-Stat,-0.051600155997941426,29
+2018/2019,MW42,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.25945068093746343,1
+2018/2019,MW43,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.15249380293430373,2
+2018/2019,MW44,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.09884129127274255,3
+2018/2019,MW45,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.17913942176503295,4
+2018/2019,MW46,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.2589586385059433,5
+2018/2019,MW47,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.51993267314017,6
+2018/2019,MW48,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.2597325673337617,7
+2018/2019,MW49,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.5795517745248331,8
+2018/2019,MW50,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.4713412915387804,9
+2018/2019,MW51,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.9392594042498202,10
+2018/2019,MW52,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-1.0361775024373665,11
+2018/2019,MW53,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.774472952878442,12
+2018/2019,MW54,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.4316442057757422,13
+2018/2019,MW55,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.8008437714119832,14
+2018/2019,MW56,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-2.2826169484615626,15
+2018/2019,MW57,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-1.4793355578972027,16
+2018/2019,MW58,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-1.4601837493501812,17
+2018/2019,MW59,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-1.4039626770625184,18
+2018/2019,MW60,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.8270564006795688,19
+2018/2019,MW61,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.842867304813344,20
+2018/2019,MW62,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.9380831938758605,21
+2018/2019,MW63,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-1.0341729728961528,22
+2018/2019,MW64,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.619763918595433,23
+2018/2019,MW65,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.5075886259658707,24
+2018/2019,MW66,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.10244483956715124,25
+2018/2019,MW67,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.2396710706380628,26
+2018/2019,MW68,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.07744337968371831,27
+2018/2019,MW69,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.38479594708313314,28
+2018/2019,MW70,HHS Region 8,1 wk ahead,Bin,Delphi-Stat,-0.17472275602071025,29
+2018/2019,MW44,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.0798716641983798,3
+2018/2019,MW45,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.10248410495286552,4
+2018/2019,MW46,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.26279637690638097,5
+2018/2019,MW47,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.1677184880130008,6
+2018/2019,MW48,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.2081254722526037,7
+2018/2019,MW49,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.28139834303131034,8
+2018/2019,MW50,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.42998410257045,9
+2018/2019,MW51,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.75741315401303555,10
+2018/2019,MW52,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.6111390286700498,11
+2018/2019,MW53,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.4049925562374133,12
+2018/2019,MW54,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.8525322626186995,13
+2018/2019,MW55,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.3761967363019247,14
+2018/2019,MW56,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.3350852059026241,15
+2018/2019,MW57,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.34603002268747773,16
+2018/2019,MW58,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.8565544491641279,17
+2018/2019,MW59,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.27761995189362443,18
+2018/2019,MW60,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.26620246231249045,19
+2018/2019,MW61,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.20558790060118476,20
+2018/2019,MW62,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.1728857206860208,21
+2018/2019,MW63,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.15701410181277892,22
+2018/2019,MW64,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.37363600110656153,23
+2018/2019,MW65,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.13519085571424105,24
+2018/2019,MW66,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.10159684000654426,25
+2018/2019,MW67,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.19396076946234306,26
+2018/2019,MW68,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.222513276002323,27
+2018/2019,MW69,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.1629969633392988,28
+2018/2019,MW70,HHS Region 9,1 wk ahead,Bin,Delphi-Stat,-0.07769432750039941,29
+2018/2019,MW46,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.11141596132587056,5
+2018/2019,MW47,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.22166378367244038,6
+2018/2019,MW48,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.16923319490209474,7
+2018/2019,MW49,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.20385056416607988,8
+2018/2019,MW50,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.3232291775662547,9
+2018/2019,MW51,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.7167865074045009,10
+2018/2019,MW52,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.5134915079489031,11
+2018/2019,MW53,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.46531801288271035,12
+2018/2019,MW54,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.39875567519337424,13
+2018/2019,MW55,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.467915855302054,14
+2018/2019,MW56,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.4599955004298593,15
+2018/2019,MW57,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-1.4496194307726484,16
+2018/2019,MW58,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-2.7285794097466547,17
+2018/2019,MW59,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.5782615670245822,18
+2018/2019,MW60,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.4723577833899676,19
+2018/2019,MW61,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.9721282043564713,20
+2018/2019,MW62,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-1.1525242837898988,21
+2018/2019,MW63,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.5074589461842572,22
+2018/2019,MW64,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-2.9599791243864244,23
+2018/2019,MW65,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-1.1912424692445207,24
+2018/2019,MW66,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.9802925779484775,25
+2018/2019,MW67,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.07668332657477124,26
+2018/2019,MW68,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.05321537158895745,27
+2018/2019,MW69,HHS Region 10,1 wk ahead,Bin,Delphi-Stat,-0.06846964673995068,28
+2018/2019,MW45,US National,2 wk ahead,Bin,Delphi-Stat,-0.2559456252892673,4
+2018/2019,MW46,US National,2 wk ahead,Bin,Delphi-Stat,-0.33051786576990366,5
+2018/2019,MW47,US National,2 wk ahead,Bin,Delphi-Stat,-0.7048083361829224,6
+2018/2019,MW48,US National,2 wk ahead,Bin,Delphi-Stat,-0.5438017221105059,7
+2018/2019,MW49,US National,2 wk ahead,Bin,Delphi-Stat,-0.5006031119334904,8
+2018/2019,MW50,US National,2 wk ahead,Bin,Delphi-Stat,-1.2972343022029236,9
+2018/2019,MW51,US National,2 wk ahead,Bin,Delphi-Stat,-0.6463652955554068,10
+2018/2019,MW52,US National,2 wk ahead,Bin,Delphi-Stat,-0.6610392693043472,11
+2018/2019,MW53,US National,2 wk ahead,Bin,Delphi-Stat,-0.5013244342348214,12
+2018/2019,MW54,US National,2 wk ahead,Bin,Delphi-Stat,-0.9042968164959422,13
+2018/2019,MW55,US National,2 wk ahead,Bin,Delphi-Stat,-1.3793623944401883,14
+2018/2019,MW56,US National,2 wk ahead,Bin,Delphi-Stat,-1.597489611193816,15
+2018/2019,MW57,US National,2 wk ahead,Bin,Delphi-Stat,-1.183791276100936,16
+2018/2019,MW58,US National,2 wk ahead,Bin,Delphi-Stat,-1.2509196697666183,17
+2018/2019,MW59,US National,2 wk ahead,Bin,Delphi-Stat,-0.6574531566067373,18
+2018/2019,MW60,US National,2 wk ahead,Bin,Delphi-Stat,-0.5174367868978815,19
+2018/2019,MW61,US National,2 wk ahead,Bin,Delphi-Stat,-0.739433168630332,20
+2018/2019,MW62,US National,2 wk ahead,Bin,Delphi-Stat,-0.19539516600542625,21
+2018/2019,MW63,US National,2 wk ahead,Bin,Delphi-Stat,-0.9027337384239427,22
+2018/2019,MW64,US National,2 wk ahead,Bin,Delphi-Stat,-0.24047395194074186,23
+2018/2019,MW65,US National,2 wk ahead,Bin,Delphi-Stat,-0.0904652425850691,24
+2018/2019,MW66,US National,2 wk ahead,Bin,Delphi-Stat,-0.05983878726574269,25
+2018/2019,MW67,US National,2 wk ahead,Bin,Delphi-Stat,-0.0424892311058619,26
+2018/2019,MW68,US National,2 wk ahead,Bin,Delphi-Stat,-0.044962902603616864,27
+2018/2019,MW69,US National,2 wk ahead,Bin,Delphi-Stat,-0.02780596674222809,28
+2018/2019,MW70,US National,2 wk ahead,Bin,Delphi-Stat,-0.035075134174441726,29
+2018/2019,MW45,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.23131567550861087,4
+2018/2019,MW46,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.2325238817471078,5
+2018/2019,MW47,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.3644904776007263,6
+2018/2019,MW48,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.22165380058023892,7
+2018/2019,MW49,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.4719647221810382,8
+2018/2019,MW50,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-1.2325111311567813,9
+2018/2019,MW51,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.8585517608747977,10
+2018/2019,MW52,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.6435837029734682,11
+2018/2019,MW53,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-1.028413073056051,12
+2018/2019,MW54,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-1.012305208484075,13
+2018/2019,MW55,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-1.1584066465581957,14
+2018/2019,MW56,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-1.0691540234718275,15
+2018/2019,MW57,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.8647998498139267,16
+2018/2019,MW58,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.6051122494641189,17
+2018/2019,MW59,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.48845306983022935,18
+2018/2019,MW60,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.45517480388928144,19
+2018/2019,MW61,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.3621025386132468,20
+2018/2019,MW62,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.2985728584752358,21
+2018/2019,MW63,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.2846164360875751,22
+2018/2019,MW64,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.2712503738241743,23
+2018/2019,MW65,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.15543437776604963,24
+2018/2019,MW66,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.20364433666825132,25
+2018/2019,MW67,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.3296764478549426,26
+2018/2019,MW68,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.47572170276940423,27
+2018/2019,MW69,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.058690929139096196,28
+2018/2019,MW70,HHS Region 1,2 wk ahead,Bin,Delphi-Stat,-0.06713589300672054,29
+2018/2019,MW45,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.49982666736327774,4
+2018/2019,MW46,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.9263359127384525,5
+2018/2019,MW47,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.7706680938753542,6
+2018/2019,MW48,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.8668364264522211,7
+2018/2019,MW49,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-1.010466326962877,8
+2018/2019,MW50,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-1.4497228303629102,9
+2018/2019,MW51,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.9449884393789718,10
+2018/2019,MW52,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-1.1072788210315714,11
+2018/2019,MW53,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.9625305058389602,12
+2018/2019,MW54,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-1.0206076761593932,13
+2018/2019,MW55,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.8504661597902787,14
+2018/2019,MW56,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.8785517176540781,15
+2018/2019,MW57,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.9258812084472854,16
+2018/2019,MW58,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.8344121496455505,17
+2018/2019,MW59,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.934746485303448,18
+2018/2019,MW60,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.8559187205643867,19
+2018/2019,MW61,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.775654522611891,20
+2018/2019,MW62,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.756278330714293,21
+2018/2019,MW63,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.8019871561181476,22
+2018/2019,MW64,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.6942949456590449,23
+2018/2019,MW65,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.4052382420334096,24
+2018/2019,MW66,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.44264217633701936,25
+2018/2019,MW67,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.41165753227191526,26
+2018/2019,MW68,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.5173490188436587,27
+2018/2019,MW69,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.3086722392515635,28
+2018/2019,MW70,HHS Region 2,2 wk ahead,Bin,Delphi-Stat,-0.5736938065530396,29
+2018/2019,MW46,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.37214638814405654,5
+2018/2019,MW47,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.7190172337769537,6
+2018/2019,MW48,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.2926751219362151,7
+2018/2019,MW49,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.4268758053728737,8
+2018/2019,MW50,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.6772619027348836,9
+2018/2019,MW51,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.7449361911118735,10
+2018/2019,MW52,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.6182386364779714,11
+2018/2019,MW53,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.5398085577401007,12
+2018/2019,MW54,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-1.3658991904787805,13
+2018/2019,MW55,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.9594430289652988,14
+2018/2019,MW56,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-1.019368324742883,15
+2018/2019,MW57,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.9329679815378321,16
+2018/2019,MW58,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-1.0947130752202014,17
+2018/2019,MW59,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.8509196753364835,18
+2018/2019,MW60,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.8149331329761322,19
+2018/2019,MW61,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-1.1767720204362975,20
+2018/2019,MW62,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.546319520000081,21
+2018/2019,MW63,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.6819304051789719,22
+2018/2019,MW64,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.4672302628798286,23
+2018/2019,MW65,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.6586322479257062,24
+2018/2019,MW66,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.9350210145572841,25
+2018/2019,MW67,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.34721739307335237,26
+2018/2019,MW68,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.31955434589405396,27
+2018/2019,MW69,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.19278238561769204,28
+2018/2019,MW70,HHS Region 3,2 wk ahead,Bin,Delphi-Stat,-0.14604927731560927,29
+2018/2019,MW43,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.16982992365056288,2
+2018/2019,MW44,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.24312310201685486,3
+2018/2019,MW45,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.30748373161275705,4
+2018/2019,MW46,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.5341426549781116,5
+2018/2019,MW47,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.8315181343215853,6
+2018/2019,MW48,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.7230203433935632,7
+2018/2019,MW49,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.8764184534057028,8
+2018/2019,MW50,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-1.330746223406269,9
+2018/2019,MW51,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.8649200454753037,10
+2018/2019,MW52,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.8768266634848675,11
+2018/2019,MW53,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.7160918337178708,12
+2018/2019,MW54,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-2.0383049553300028,13
+2018/2019,MW55,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-2.7992994738193326,14
+2018/2019,MW56,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-2.1677883151818946,15
+2018/2019,MW57,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-1.4302476498886572,16
+2018/2019,MW58,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-1.081300456744848,17
+2018/2019,MW59,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.7582677624214978,18
+2018/2019,MW60,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.6427502768122461,19
+2018/2019,MW61,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.7618931706532146,20
+2018/2019,MW62,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.537077376167488,21
+2018/2019,MW63,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.3951631617706879,22
+2018/2019,MW64,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.22871462246215699,23
+2018/2019,MW65,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.11278458998145954,24
+2018/2019,MW66,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.09774210997457879,25
+2018/2019,MW67,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.07907766693492749,26
+2018/2019,MW68,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.07310470733053408,27
+2018/2019,MW69,HHS Region 4,2 wk ahead,Bin,Delphi-Stat,-0.03855895854527397,28
+2018/2019,MW47,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.6171919151388293,6
+2018/2019,MW48,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.23611904142008155,7
+2018/2019,MW49,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.4865849507822899,8
+2018/2019,MW50,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-1.1055101210774254,9
+2018/2019,MW51,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.5244005309515517,10
+2018/2019,MW52,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-1.230247027237763,11
+2018/2019,MW53,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.35272101711509,12
+2018/2019,MW54,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-1.1309935857277773,13
+2018/2019,MW55,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.4581791721477194,14
+2018/2019,MW56,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.5922250624097063,15
+2018/2019,MW57,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.4337511289840567,16
+2018/2019,MW58,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.6975244181796914,17
+2018/2019,MW59,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.7511419430538843,18
+2018/2019,MW60,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.674285865165343,19
+2018/2019,MW61,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.8183044005217894,20
+2018/2019,MW62,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.5741119717077134,21
+2018/2019,MW63,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.5730286544536163,22
+2018/2019,MW64,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.6899341439282298,23
+2018/2019,MW65,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.2705967703487708,24
+2018/2019,MW66,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.05817873289466446,25
+2018/2019,MW67,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.055133700471075964,26
+2018/2019,MW68,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.03483312644526381,27
+2018/2019,MW69,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.03241746602546268,28
+2018/2019,MW70,HHS Region 5,2 wk ahead,Bin,Delphi-Stat,-0.03126330042712385,29
+2018/2019,MW47,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.0299541640705578,6
+2018/2019,MW48,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.043295680892892,7
+2018/2019,MW49,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.177692283788296,8
+2018/2019,MW50,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.7377186697828655,9
+2018/2019,MW51,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.143139126831494,10
+2018/2019,MW52,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.5232802905136573,11
+2018/2019,MW53,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.133300423478798,12
+2018/2019,MW54,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-2.0819219142429595,13
+2018/2019,MW55,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-3.000020244604135,14
+2018/2019,MW56,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-3.2772340889839966,15
+2018/2019,MW57,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-2.875820608597785,16
+2018/2019,MW58,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.7437205919685048,17
+2018/2019,MW59,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.6951088943263664,18
+2018/2019,MW60,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.2576534638778079,19
+2018/2019,MW61,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.0612510727600915,20
+2018/2019,MW62,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.0698203766073853,21
+2018/2019,MW63,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-1.287490810879738,22
+2018/2019,MW64,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-0.47844671655908283,23
+2018/2019,MW65,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-0.5049631225536574,24
+2018/2019,MW66,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-0.378647941837899,25
+2018/2019,MW67,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-0.2779452023209464,26
+2018/2019,MW68,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-0.2039487468910496,27
+2018/2019,MW69,HHS Region 6,2 wk ahead,Bin,Delphi-Stat,-0.1950227719077618,28
+2018/2019,MW46,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.3841228774083501,5
+2018/2019,MW47,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.7149343082972485,6
+2018/2019,MW48,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.7176178536698817,7
+2018/2019,MW49,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.8454880762500177,8
+2018/2019,MW50,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-2.007206630632956,9
+2018/2019,MW51,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.8985491916762639,10
+2018/2019,MW52,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.7641675263785992,11
+2018/2019,MW53,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.6794817413941017,12
+2018/2019,MW54,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.9685428391645459,13
+2018/2019,MW55,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.9391368454077199,14
+2018/2019,MW56,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.1603041117776753,15
+2018/2019,MW57,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.2039271329165078,16
+2018/2019,MW58,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-3.8385359306543103,17
+2018/2019,MW59,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.2637431897107716,18
+2018/2019,MW60,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.4871147306103494,19
+2018/2019,MW61,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-3.9089380271813003,20
+2018/2019,MW62,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.3228752735103881,21
+2018/2019,MW63,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.5878179815114581,22
+2018/2019,MW64,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.9330852456053143,23
+2018/2019,MW65,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-1.3670171838016458,24
+2018/2019,MW66,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.8862127562177,25
+2018/2019,MW67,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.28613846634847556,26
+2018/2019,MW68,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.05131498626479419,27
+2018/2019,MW69,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.061019867881211845,28
+2018/2019,MW70,HHS Region 7,2 wk ahead,Bin,Delphi-Stat,-0.06806789531760568,29
+2018/2019,MW42,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.5409979764834033,1
+2018/2019,MW43,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.35978051128990257,2
+2018/2019,MW44,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.6048699748264229,3
+2018/2019,MW45,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.5941465476329519,4
+2018/2019,MW46,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.8352073460599881,5
+2018/2019,MW47,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.0042231476063324,6
+2018/2019,MW48,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.5461823210524407,7
+2018/2019,MW49,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.9785024965052844,8
+2018/2019,MW50,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-2.9921035291188303,9
+2018/2019,MW51,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.8196272134728086,10
+2018/2019,MW52,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.3553095683910592,11
+2018/2019,MW53,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.8009348985867168,12
+2018/2019,MW54,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.064745990892356,13
+2018/2019,MW55,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-3.448857354133331,14
+2018/2019,MW56,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-3.8030877516055646,15
+2018/2019,MW57,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-2.8710931210278523,16
+2018/2019,MW58,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-3.530620139186431,17
+2018/2019,MW59,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.9665816636159965,18
+2018/2019,MW60,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.232510701736692,19
+2018/2019,MW61,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.8164763148762868,20
+2018/2019,MW62,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.4574847509264377,21
+2018/2019,MW63,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-1.8604653051026165,22
+2018/2019,MW64,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.47021235876874684,23
+2018/2019,MW65,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.3380662787152192,24
+2018/2019,MW66,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.2744073875945611,25
+2018/2019,MW67,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.19249019886233656,26
+2018/2019,MW68,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.6752669988686496,27
+2018/2019,MW69,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.5180811227281451,28
+2018/2019,MW70,HHS Region 8,2 wk ahead,Bin,Delphi-Stat,-0.47064476693554336,29
+2018/2019,MW44,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.2117897268097695,3
+2018/2019,MW45,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.25809251213527473,4
+2018/2019,MW46,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.5241003411571905,5
+2018/2019,MW47,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.4065009064546937,6
+2018/2019,MW48,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.46762469431469117,7
+2018/2019,MW49,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.46951035515738365,8
+2018/2019,MW50,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-1.1585299603286898,9
+2018/2019,MW51,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.8595381431724737,10
+2018/2019,MW52,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.7545826640850679,11
+2018/2019,MW53,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.7862326892935821,12
+2018/2019,MW54,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-1.1923541667419981,13
+2018/2019,MW55,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.6073443061743892,14
+2018/2019,MW56,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.5732658827195255,15
+2018/2019,MW57,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.6723512758958259,16
+2018/2019,MW58,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.8651738259992342,17
+2018/2019,MW59,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.7113393394470189,18
+2018/2019,MW60,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.4536776616249807,19
+2018/2019,MW61,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.36280143039578755,20
+2018/2019,MW62,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.4786101065279827,21
+2018/2019,MW63,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.2103862613750415,22
+2018/2019,MW64,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.2621874795493836,23
+2018/2019,MW65,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.3009197836865393,24
+2018/2019,MW66,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.3136033750992757,25
+2018/2019,MW67,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.28702211754998763,26
+2018/2019,MW68,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.5376761207306229,27
+2018/2019,MW69,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.20955284797612514,28
+2018/2019,MW70,HHS Region 9,2 wk ahead,Bin,Delphi-Stat,-0.1653978111962348,29
+2018/2019,MW46,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.2583623510438072,5
+2018/2019,MW47,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.44631304912921016,6
+2018/2019,MW48,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.2972438307460326,7
+2018/2019,MW49,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.5576281087138278,8
+2018/2019,MW50,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.8238639988503649,9
+2018/2019,MW51,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.7324902317868095,10
+2018/2019,MW52,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.760061309705452,11
+2018/2019,MW53,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.6648945128282377,12
+2018/2019,MW54,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.599514209431062,13
+2018/2019,MW55,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.8544342843077742,14
+2018/2019,MW56,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-1.3298615501007867,15
+2018/2019,MW57,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-2.0940125740096316,16
+2018/2019,MW58,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-1.9756512493576113,17
+2018/2019,MW59,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.7543514973391668,18
+2018/2019,MW60,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-1.2879535898124688,19
+2018/2019,MW61,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-2.590922682112241,20
+2018/2019,MW62,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-1.1286534098640961,21
+2018/2019,MW63,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-1.5261905148724983,22
+2018/2019,MW64,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-2.3564429635593918,23
+2018/2019,MW65,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-1.350586953467489,24
+2018/2019,MW66,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.7203796853257577,25
+2018/2019,MW67,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.1344643475146651,26
+2018/2019,MW68,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.15142077334368428,27
+2018/2019,MW69,HHS Region 10,2 wk ahead,Bin,Delphi-Stat,-0.1169508568053705,28
+2018/2019,MW45,US National,3 wk ahead,Bin,Delphi-Stat,-0.5741158031017335,4
+2018/2019,MW46,US National,3 wk ahead,Bin,Delphi-Stat,-0.49995238374932327,5
+2018/2019,MW47,US National,3 wk ahead,Bin,Delphi-Stat,-1.00630787862773,6
+2018/2019,MW48,US National,3 wk ahead,Bin,Delphi-Stat,-0.9933351646775389,7
+2018/2019,MW49,US National,3 wk ahead,Bin,Delphi-Stat,-1.378077588431857,8
+2018/2019,MW50,US National,3 wk ahead,Bin,Delphi-Stat,-1.1589204501352812,9
+2018/2019,MW51,US National,3 wk ahead,Bin,Delphi-Stat,-0.6584606896112511,10
+2018/2019,MW52,US National,3 wk ahead,Bin,Delphi-Stat,-0.7950538564091697,11
+2018/2019,MW53,US National,3 wk ahead,Bin,Delphi-Stat,-0.8893168454777186,12
+2018/2019,MW54,US National,3 wk ahead,Bin,Delphi-Stat,-1.6399858152358133,13
+2018/2019,MW55,US National,3 wk ahead,Bin,Delphi-Stat,-2.390873225206985,14
+2018/2019,MW56,US National,3 wk ahead,Bin,Delphi-Stat,-1.9620541608023294,15
+2018/2019,MW57,US National,3 wk ahead,Bin,Delphi-Stat,-1.5293224545773085,16
+2018/2019,MW58,US National,3 wk ahead,Bin,Delphi-Stat,-1.6933484130093124,17
+2018/2019,MW59,US National,3 wk ahead,Bin,Delphi-Stat,-1.094187030404719,18
+2018/2019,MW60,US National,3 wk ahead,Bin,Delphi-Stat,-1.0856401068627684,19
+2018/2019,MW61,US National,3 wk ahead,Bin,Delphi-Stat,-0.7043775826600447,20
+2018/2019,MW62,US National,3 wk ahead,Bin,Delphi-Stat,-0.3448563436218592,21
+2018/2019,MW63,US National,3 wk ahead,Bin,Delphi-Stat,-0.8553806014641813,22
+2018/2019,MW64,US National,3 wk ahead,Bin,Delphi-Stat,-0.27993698696150887,23
+2018/2019,MW65,US National,3 wk ahead,Bin,Delphi-Stat,-0.1286814012132646,24
+2018/2019,MW66,US National,3 wk ahead,Bin,Delphi-Stat,-0.11134368415440936,25
+2018/2019,MW67,US National,3 wk ahead,Bin,Delphi-Stat,-0.05084809836012269,26
+2018/2019,MW68,US National,3 wk ahead,Bin,Delphi-Stat,-0.04571383831656759,27
+2018/2019,MW69,US National,3 wk ahead,Bin,Delphi-Stat,-0.04789565959477125,28
+2018/2019,MW70,US National,3 wk ahead,Bin,Delphi-Stat,-0.04257145770858452,29
+2018/2019,MW45,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.25744012559399854,4
+2018/2019,MW46,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.6160842360826937,5
+2018/2019,MW47,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.6796351808427726,6
+2018/2019,MW48,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.6529529506784963,7
+2018/2019,MW49,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.1037746732194433,8
+2018/2019,MW50,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.0455752461315977,9
+2018/2019,MW51,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.1804353892936255,10
+2018/2019,MW52,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.0201942450703378,11
+2018/2019,MW53,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.4656476718231874,12
+2018/2019,MW54,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.3589239111153408,13
+2018/2019,MW55,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.7364150622699002,14
+2018/2019,MW56,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.4409626671189297,15
+2018/2019,MW57,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-1.2150943760201662,16
+2018/2019,MW58,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.8188884285367461,17
+2018/2019,MW59,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.9914150521016475,18
+2018/2019,MW60,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.6715480984328086,19
+2018/2019,MW61,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.6681366885758618,20
+2018/2019,MW62,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.8298212335531021,21
+2018/2019,MW63,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.5112081409454491,22
+2018/2019,MW64,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.3495027612914604,23
+2018/2019,MW65,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.2617740927269843,24
+2018/2019,MW66,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.6737047232895645,25
+2018/2019,MW67,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.2788085293703894,26
+2018/2019,MW68,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.25258019965429607,27
+2018/2019,MW69,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.11094688424094655,28
+2018/2019,MW70,HHS Region 1,3 wk ahead,Bin,Delphi-Stat,-0.09608654180118045,29
+2018/2019,MW45,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.5882052653437212,4
+2018/2019,MW46,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.8356928146353446,5
+2018/2019,MW47,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.1329492003237198,6
+2018/2019,MW48,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.157553566739368,7
+2018/2019,MW49,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.374087128061125,8
+2018/2019,MW50,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.4511624938478167,9
+2018/2019,MW51,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.182586562716688,10
+2018/2019,MW52,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.3187819844569462,11
+2018/2019,MW53,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.1100208618342624,12
+2018/2019,MW54,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.2500543064189966,13
+2018/2019,MW55,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.1457503762031027,14
+2018/2019,MW56,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.259873369415562,15
+2018/2019,MW57,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.1973964719750174,16
+2018/2019,MW58,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.9419459460391119,17
+2018/2019,MW59,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.9934756310349885,18
+2018/2019,MW60,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.0178260378557125,19
+2018/2019,MW61,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.0766938781934128,20
+2018/2019,MW62,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-1.23535503997537,21
+2018/2019,MW63,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.9185025479464028,22
+2018/2019,MW64,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.7598286368341306,23
+2018/2019,MW65,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.6317856614564297,24
+2018/2019,MW66,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.47146663095474833,25
+2018/2019,MW67,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.5246959355588868,26
+2018/2019,MW68,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.47616324015575695,27
+2018/2019,MW69,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.6011467228520222,28
+2018/2019,MW70,HHS Region 2,3 wk ahead,Bin,Delphi-Stat,-0.5398690436550613,29
+2018/2019,MW46,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.5780243567128035,5
+2018/2019,MW47,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.7588474771983195,6
+2018/2019,MW48,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.5729912867659674,7
+2018/2019,MW49,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.8037410109167682,8
+2018/2019,MW50,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.8680052727175782,9
+2018/2019,MW51,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.0402881112198847,10
+2018/2019,MW52,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.8704377948201247,11
+2018/2019,MW53,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.0061110815142655,12
+2018/2019,MW54,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.6012389547086108,13
+2018/2019,MW55,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.6725328378166378,14
+2018/2019,MW56,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.5202590306595538,15
+2018/2019,MW57,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.3333253355209795,16
+2018/2019,MW58,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.4167251788267452,17
+2018/2019,MW59,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.2269949782194638,18
+2018/2019,MW60,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.4251829505667308,19
+2018/2019,MW61,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.8361728729898187,20
+2018/2019,MW62,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.5874985649648921,21
+2018/2019,MW63,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.46673158056203407,22
+2018/2019,MW64,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.5879039952469697,23
+2018/2019,MW65,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-1.0201537526224431,24
+2018/2019,MW66,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.8069412156956909,25
+2018/2019,MW67,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.5010812937003093,26
+2018/2019,MW68,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.43607077192019095,27
+2018/2019,MW69,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.2641037051477431,28
+2018/2019,MW70,HHS Region 3,3 wk ahead,Bin,Delphi-Stat,-0.10979038658672412,29
+2018/2019,MW43,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.26009288381407586,2
+2018/2019,MW44,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.4084398268935273,3
+2018/2019,MW45,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.5260628872349606,4
+2018/2019,MW46,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.7931637758951403,5
+2018/2019,MW47,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.2636258984890558,6
+2018/2019,MW48,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.164472335326132,7
+2018/2019,MW49,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.4556823296745411,8
+2018/2019,MW50,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.2446792475542745,9
+2018/2019,MW51,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.8937102191597767,10
+2018/2019,MW52,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.9980482563703499,11
+2018/2019,MW53,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.7031669649655146,12
+2018/2019,MW54,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-2.889992006219611,13
+2018/2019,MW55,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-3.2700524947461953,14
+2018/2019,MW56,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-2.0848580789850795,15
+2018/2019,MW57,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.5742414347596396,16
+2018/2019,MW58,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-1.0929305304420878,17
+2018/2019,MW59,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.8769968308900782,18
+2018/2019,MW60,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.8492000573842099,19
+2018/2019,MW61,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.9321645844748083,20
+2018/2019,MW62,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.6864033024778353,21
+2018/2019,MW63,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.3233675681827593,22
+2018/2019,MW64,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.27767765178783443,23
+2018/2019,MW65,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.1626668545168779,24
+2018/2019,MW66,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.13718681466309615,25
+2018/2019,MW67,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.11146939803820478,26
+2018/2019,MW68,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.1006663101721147,27
+2018/2019,MW69,HHS Region 4,3 wk ahead,Bin,Delphi-Stat,-0.06271334636309076,28
+2018/2019,MW47,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.8669585326928397,6
+2018/2019,MW48,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.696621539396714,7
+2018/2019,MW49,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-1.4476569062987434,8
+2018/2019,MW50,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.777432060575463,9
+2018/2019,MW51,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.6202570583663596,10
+2018/2019,MW52,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.96964308883072,11
+2018/2019,MW53,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.6325907321369028,12
+2018/2019,MW54,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-1.140879531532878,13
+2018/2019,MW55,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.5352038462424255,14
+2018/2019,MW56,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.5863519329255413,15
+2018/2019,MW57,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.6251179262926263,16
+2018/2019,MW58,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-1.032610764854583,17
+2018/2019,MW59,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-1.5258659521161395,18
+2018/2019,MW60,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-1.5884299345846422,19
+2018/2019,MW61,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-1.0202195695647946,20
+2018/2019,MW62,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.5449662157659502,21
+2018/2019,MW63,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.5013070087558223,22
+2018/2019,MW64,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.5258014310697215,23
+2018/2019,MW65,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.23092584799231258,24
+2018/2019,MW66,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.10576782886033194,25
+2018/2019,MW67,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.07980920579394658,26
+2018/2019,MW68,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.046704674052229264,27
+2018/2019,MW69,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.046543064842845795,28
+2018/2019,MW70,HHS Region 5,3 wk ahead,Bin,Delphi-Stat,-0.03904979640327987,29
+2018/2019,MW47,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.2546680457956385,6
+2018/2019,MW48,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.4782322236945395,7
+2018/2019,MW49,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.943789071948719,8
+2018/2019,MW50,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.308534462281199,9
+2018/2019,MW51,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.3077705954082681,10
+2018/2019,MW52,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.415797112603562,11
+2018/2019,MW53,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.6906313767643855,12
+2018/2019,MW54,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-3.245076387139206,13
+2018/2019,MW55,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-3.785800407523905,14
+2018/2019,MW56,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-3.6856550936177856,15
+2018/2019,MW57,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-2.993157605430367,16
+2018/2019,MW58,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-2.4551983409441793,17
+2018/2019,MW59,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.6971543610298208,18
+2018/2019,MW60,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.4644945823160562,19
+2018/2019,MW61,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.1942490933252756,20
+2018/2019,MW62,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.9795937970996512,21
+2018/2019,MW63,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-1.1096501768113556,22
+2018/2019,MW64,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.6716430602241912,23
+2018/2019,MW65,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.6112233199877771,24
+2018/2019,MW66,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.3823334386520546,25
+2018/2019,MW67,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.3338871974324122,26
+2018/2019,MW68,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.24266157519232862,27
+2018/2019,MW69,HHS Region 6,3 wk ahead,Bin,Delphi-Stat,-0.27911050887926003,28
+2018/2019,MW46,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.6438571931907645,5
+2018/2019,MW47,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.0116593045352786,6
+2018/2019,MW48,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.2652502849665315,7
+2018/2019,MW49,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-2.267445149770514,8
+2018/2019,MW50,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.3900558450851457,9
+2018/2019,MW51,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.0799193813976729,10
+2018/2019,MW52,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.8310921474123443,11
+2018/2019,MW53,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.1730017966783728,12
+2018/2019,MW54,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.510708818891133,13
+2018/2019,MW55,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.2753236535456656,14
+2018/2019,MW56,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.8131559758761768,15
+2018/2019,MW57,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-2.4695633391870158,16
+2018/2019,MW58,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-3.3952326027036603,17
+2018/2019,MW59,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-2.207747174106776,18
+2018/2019,MW60,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-3.31573998118678,19
+2018/2019,MW61,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-3.355741063840523,20
+2018/2019,MW62,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.1798214445887358,21
+2018/2019,MW63,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-2.3005892574561946,22
+2018/2019,MW64,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.2509439593881901,23
+2018/2019,MW65,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-1.7006254107871885,24
+2018/2019,MW66,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.6338662028747885,25
+2018/2019,MW67,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.2578246365153415,26
+2018/2019,MW68,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.0724899079775804,27
+2018/2019,MW69,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.10082020473869907,28
+2018/2019,MW70,HHS Region 7,3 wk ahead,Bin,Delphi-Stat,-0.09811608799062513,29
+2018/2019,MW42,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.7466784204729491,1
+2018/2019,MW43,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.395791940862004,2
+2018/2019,MW44,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.265530683803488,3
+2018/2019,MW45,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.275010771205616,4
+2018/2019,MW46,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.1582165675840663,5
+2018/2019,MW47,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.9576763738357569,6
+2018/2019,MW48,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.8487392097746466,7
+2018/2019,MW49,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-2.846625974079697,8
+2018/2019,MW50,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.317187761223391,9
+2018/2019,MW51,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.178758811708812,10
+2018/2019,MW52,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.2347127615427675,11
+2018/2019,MW53,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.2621475063842358,12
+2018/2019,MW54,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-2.858350348805492,13
+2018/2019,MW55,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-4.3522900431373355,14
+2018/2019,MW56,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-5.038728153777835,15
+2018/2019,MW57,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-4.305987923912615,16
+2018/2019,MW58,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-3.626654880412216,17
+2018/2019,MW59,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-2.9413799952609847,18
+2018/2019,MW60,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.6045154390170657,19
+2018/2019,MW61,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.7393671177634924,20
+2018/2019,MW62,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.6523239844729967,21
+2018/2019,MW63,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.2845791437101084,22
+2018/2019,MW64,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.678381898253985,23
+2018/2019,MW65,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.924755140740018,24
+2018/2019,MW66,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.22927601634862338,25
+2018/2019,MW67,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.9103557384322718,26
+2018/2019,MW68,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.6233284528597682,27
+2018/2019,MW69,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-1.0876605323123696,28
+2018/2019,MW70,HHS Region 8,3 wk ahead,Bin,Delphi-Stat,-0.6034537639949253,29
+2018/2019,MW44,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.3265788484702831,3
+2018/2019,MW45,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.4608394757454748,4
+2018/2019,MW46,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.6860571297266653,5
+2018/2019,MW47,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.7314498525071552,6
+2018/2019,MW48,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.8008086015958064,7
+2018/2019,MW49,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-1.2196441746864564,8
+2018/2019,MW50,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-1.0073064452064275,9
+2018/2019,MW51,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.9831715882964039,10
+2018/2019,MW52,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-1.0103114543267806,11
+2018/2019,MW53,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.9883898090214079,12
+2018/2019,MW54,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.7986464019393765,13
+2018/2019,MW55,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.7281138458238257,14
+2018/2019,MW56,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.9786722724157038,15
+2018/2019,MW57,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.7447823156708686,16
+2018/2019,MW58,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-1.202886781142164,17
+2018/2019,MW59,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.9562775328766814,18
+2018/2019,MW60,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.544286615442435,19
+2018/2019,MW61,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.8347955554149105,20
+2018/2019,MW62,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.28908175175002454,21
+2018/2019,MW63,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.4013701731562181,22
+2018/2019,MW64,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.3455407214113673,23
+2018/2019,MW65,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.4699971197912008,24
+2018/2019,MW66,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.34726519236929265,25
+2018/2019,MW67,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.516452809437678,26
+2018/2019,MW68,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.45136853446664904,27
+2018/2019,MW69,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.20372239643553214,28
+2018/2019,MW70,HHS Region 9,3 wk ahead,Bin,Delphi-Stat,-0.20528977689090905,29
+2018/2019,MW46,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.4656259939216271,5
+2018/2019,MW47,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.5783846284012703,6
+2018/2019,MW48,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.6388166922861357,7
+2018/2019,MW49,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.0277283472282506,8
+2018/2019,MW50,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.8703575128777832,9
+2018/2019,MW51,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.9017900701442327,10
+2018/2019,MW52,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.9083483557457586,11
+2018/2019,MW53,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.7824300867664213,12
+2018/2019,MW54,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.8858847098955202,13
+2018/2019,MW55,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.410158193887679,14
+2018/2019,MW56,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-2.0932981934689416,15
+2018/2019,MW57,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.6807864046169738,16
+2018/2019,MW58,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.7421132307783618,17
+2018/2019,MW59,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.469081309632182,18
+2018/2019,MW60,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-2.6577460029118427,19
+2018/2019,MW61,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-2.282815887546662,20
+2018/2019,MW62,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.7570338725318807,21
+2018/2019,MW63,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.3677483052956867,22
+2018/2019,MW64,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-2.2868558398792374,23
+2018/2019,MW65,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-1.027687392209814,24
+2018/2019,MW66,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.5996963560862301,25
+2018/2019,MW67,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.22147420465504733,26
+2018/2019,MW68,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.15262677073247236,27
+2018/2019,MW69,HHS Region 10,3 wk ahead,Bin,Delphi-Stat,-0.13845658859296073,28
+2018/2019,MW45,US National,4 wk ahead,Bin,Delphi-Stat,-0.5817744577805796,4
+2018/2019,MW46,US National,4 wk ahead,Bin,Delphi-Stat,-0.7886060782332899,5
+2018/2019,MW47,US National,4 wk ahead,Bin,Delphi-Stat,-1.2715132664004445,6
+2018/2019,MW48,US National,4 wk ahead,Bin,Delphi-Stat,-1.8433827620388843,7
+2018/2019,MW49,US National,4 wk ahead,Bin,Delphi-Stat,-1.1079778764156145,8
+2018/2019,MW50,US National,4 wk ahead,Bin,Delphi-Stat,-0.837035514387718,9
+2018/2019,MW51,US National,4 wk ahead,Bin,Delphi-Stat,-0.8364774819936824,10
+2018/2019,MW52,US National,4 wk ahead,Bin,Delphi-Stat,-0.9605017682530627,11
+2018/2019,MW53,US National,4 wk ahead,Bin,Delphi-Stat,-1.463764888579773,12
+2018/2019,MW54,US National,4 wk ahead,Bin,Delphi-Stat,-2.540976713820308,13
+2018/2019,MW55,US National,4 wk ahead,Bin,Delphi-Stat,-2.6489320403125314,14
+2018/2019,MW56,US National,4 wk ahead,Bin,Delphi-Stat,-2.2098540129841373,15
+2018/2019,MW57,US National,4 wk ahead,Bin,Delphi-Stat,-1.8670086125942438,16
+2018/2019,MW58,US National,4 wk ahead,Bin,Delphi-Stat,-1.996706661662142,17
+2018/2019,MW59,US National,4 wk ahead,Bin,Delphi-Stat,-1.6412830970989483,18
+2018/2019,MW60,US National,4 wk ahead,Bin,Delphi-Stat,-1.017344727403268,19
+2018/2019,MW61,US National,4 wk ahead,Bin,Delphi-Stat,-0.4922125572693542,20
+2018/2019,MW62,US National,4 wk ahead,Bin,Delphi-Stat,-0.3970543051771702,21
+2018/2019,MW63,US National,4 wk ahead,Bin,Delphi-Stat,-0.908019720255285,22
+2018/2019,MW64,US National,4 wk ahead,Bin,Delphi-Stat,-0.43501165539356607,23
+2018/2019,MW65,US National,4 wk ahead,Bin,Delphi-Stat,-0.1878679813385651,24
+2018/2019,MW66,US National,4 wk ahead,Bin,Delphi-Stat,-0.10217079510132569,25
+2018/2019,MW67,US National,4 wk ahead,Bin,Delphi-Stat,-0.04834828970078445,26
+2018/2019,MW68,US National,4 wk ahead,Bin,Delphi-Stat,-0.05524987016083163,27
+2018/2019,MW69,US National,4 wk ahead,Bin,Delphi-Stat,-0.055775772864879815,28
+2018/2019,MW70,US National,4 wk ahead,Bin,Delphi-Stat,-0.07665909134138452,29
+2018/2019,MW45,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.7489382214406809,4
+2018/2019,MW46,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.8530613404807035,5
+2018/2019,MW47,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.9629942536393387,6
+2018/2019,MW48,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.5230545320194746,7
+2018/2019,MW49,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.8662352822690516,8
+2018/2019,MW50,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.3413961726533041,9
+2018/2019,MW51,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.4295031122285622,10
+2018/2019,MW52,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.4334653503631556,11
+2018/2019,MW53,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.7378811789317408,12
+2018/2019,MW54,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.8608524924447916,13
+2018/2019,MW55,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-2.0536407319388865,14
+2018/2019,MW56,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.635511162187855,15
+2018/2019,MW57,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.1786022426823375,16
+2018/2019,MW58,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.2810172085721576,17
+2018/2019,MW59,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.1477562991239498,18
+2018/2019,MW60,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.0072656473387762,19
+2018/2019,MW61,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-1.0335671450246084,20
+2018/2019,MW62,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.7538705376422254,21
+2018/2019,MW63,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.49113994978717235,22
+2018/2019,MW64,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.40078724244660485,23
+2018/2019,MW65,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.5348866470085566,24
+2018/2019,MW66,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.5870799739277212,25
+2018/2019,MW67,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.16963293013204012,26
+2018/2019,MW68,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.11598503055803126,27
+2018/2019,MW69,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.09441587057875825,28
+2018/2019,MW70,HHS Region 1,4 wk ahead,Bin,Delphi-Stat,-0.08518812747587141,29
+2018/2019,MW45,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.7808207992134073,4
+2018/2019,MW46,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.173893648314718,5
+2018/2019,MW47,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.5393758420678374,6
+2018/2019,MW48,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.6018715240673014,7
+2018/2019,MW49,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.332082197930354,8
+2018/2019,MW50,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.4585591899812864,9
+2018/2019,MW51,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.4177423544342782,10
+2018/2019,MW52,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.456061761351251,11
+2018/2019,MW53,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.3772481488654849,12
+2018/2019,MW54,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.663700478050606,13
+2018/2019,MW55,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.4943759254773943,14
+2018/2019,MW56,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.5479732464691396,15
+2018/2019,MW57,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.1626115628951268,16
+2018/2019,MW58,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.2038220693237975,17
+2018/2019,MW59,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.2066204685309598,18
+2018/2019,MW60,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.194177103056995,19
+2018/2019,MW61,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.358270278994907,20
+2018/2019,MW62,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.2678481831522264,21
+2018/2019,MW63,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-1.0046828232816742,22
+2018/2019,MW64,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.7551073491995979,23
+2018/2019,MW65,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.4982814177087656,24
+2018/2019,MW66,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.5787665997426223,25
+2018/2019,MW67,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.4874387996187832,26
+2018/2019,MW68,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.6792264110168958,27
+2018/2019,MW69,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.6369160458071146,28
+2018/2019,MW70,HHS Region 2,4 wk ahead,Bin,Delphi-Stat,-0.5795524278264506,29
+2018/2019,MW46,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.6345010006921079,5
+2018/2019,MW47,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.9132430106445837,6
+2018/2019,MW48,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.909453224510031,7
+2018/2019,MW49,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.9463241677345366,8
+2018/2019,MW50,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.8981208454421046,9
+2018/2019,MW51,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.0583644975215225,10
+2018/2019,MW52,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.119509201692497,11
+2018/2019,MW53,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.1383998140557832,12
+2018/2019,MW54,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-2.0388375226249353,13
+2018/2019,MW55,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-2.0427418417255674,14
+2018/2019,MW56,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.8375534215776759,15
+2018/2019,MW57,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.6364491259587863,16
+2018/2019,MW58,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.5236661570581211,17
+2018/2019,MW59,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-1.7053215115990519,18
+2018/2019,MW60,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.9928423719437864,19
+2018/2019,MW61,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.6985631849040369,20
+2018/2019,MW62,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.4236274236714141,21
+2018/2019,MW63,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.6158150290364766,22
+2018/2019,MW64,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.826345180635006,23
+2018/2019,MW65,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.9066599174966432,24
+2018/2019,MW66,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.9616614576510839,25
+2018/2019,MW67,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.5670570483211477,26
+2018/2019,MW68,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.5564190891811288,27
+2018/2019,MW69,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.18215751928656337,28
+2018/2019,MW70,HHS Region 3,4 wk ahead,Bin,Delphi-Stat,-0.15765640241350456,29
+2018/2019,MW43,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.5031834545309847,2
+2018/2019,MW44,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.5705822520702523,3
+2018/2019,MW45,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.7602672991589049,4
+2018/2019,MW46,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.0895110711249885,5
+2018/2019,MW47,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.5243413362721425,6
+2018/2019,MW48,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.8115542494750227,7
+2018/2019,MW49,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.206068843578681,8
+2018/2019,MW50,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.0300609033104418,9
+2018/2019,MW51,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.0705679584486356,10
+2018/2019,MW52,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.5346049479574706,11
+2018/2019,MW53,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-2.1592305957885287,12
+2018/2019,MW54,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-3.676259608225428,13
+2018/2019,MW55,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-3.2325579541994722,14
+2018/2019,MW56,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-2.221968289126328,15
+2018/2019,MW57,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.3578150687522228,16
+2018/2019,MW58,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.1225330408262228,17
+2018/2019,MW59,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.0207426741450216,18
+2018/2019,MW60,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-1.012436687105224,19
+2018/2019,MW61,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.9014567128466335,20
+2018/2019,MW62,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.6200550357136255,21
+2018/2019,MW63,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.3280373509796693,22
+2018/2019,MW64,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.24914044654047757,23
+2018/2019,MW65,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.1780920821396683,24
+2018/2019,MW66,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.14485546010676897,25
+2018/2019,MW67,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.10583710542889088,26
+2018/2019,MW68,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.10008494255239163,27
+2018/2019,MW69,HHS Region 4,4 wk ahead,Bin,Delphi-Stat,-0.05312616953070569,28
+2018/2019,MW47,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-1.0824789109357134,6
+2018/2019,MW48,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-1.6712228305438617,7
+2018/2019,MW49,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.8555190988075493,8
+2018/2019,MW50,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.7569686833492077,9
+2018/2019,MW51,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.78206156790026,10
+2018/2019,MW52,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-1.028269732092583,11
+2018/2019,MW53,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.8194145922210029,12
+2018/2019,MW54,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.7484506197871098,13
+2018/2019,MW55,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.665071908908426,14
+2018/2019,MW56,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.7430375104603483,15
+2018/2019,MW57,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.8515483262847968,16
+2018/2019,MW58,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-1.6349181427858623,17
+2018/2019,MW59,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-2.5890531404967057,18
+2018/2019,MW60,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-1.5062523295470507,19
+2018/2019,MW61,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.7058292512559581,20
+2018/2019,MW62,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.47996201226370316,21
+2018/2019,MW63,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.41789352122799367,22
+2018/2019,MW64,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.41425227648391433,23
+2018/2019,MW65,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.2631879708662361,24
+2018/2019,MW66,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.10000651638877407,25
+2018/2019,MW67,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.07313079041394605,26
+2018/2019,MW68,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.04756976211504235,27
+2018/2019,MW69,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.053452964158864566,28
+2018/2019,MW70,HHS Region 5,4 wk ahead,Bin,Delphi-Stat,-0.06106977342192543,29
+2018/2019,MW47,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.4934115322831474,6
+2018/2019,MW48,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.8725132594904494,7
+2018/2019,MW49,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.5039725831270618,8
+2018/2019,MW50,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.4344968998627234,9
+2018/2019,MW51,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.5015545897473708,10
+2018/2019,MW52,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.6352360827504113,11
+2018/2019,MW53,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-2.673527237556826,12
+2018/2019,MW54,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-4.353868213536309,13
+2018/2019,MW55,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-3.9944286824607533,14
+2018/2019,MW56,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-3.6351004467481958,15
+2018/2019,MW57,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-3.4919449831182363,16
+2018/2019,MW58,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-2.420404691225768,17
+2018/2019,MW59,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.9799045872932082,18
+2018/2019,MW60,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.2075191246845922,19
+2018/2019,MW61,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.0814138883096596,20
+2018/2019,MW62,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.9737602302976807,21
+2018/2019,MW63,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-1.0315918413133163,22
+2018/2019,MW64,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.7253126712843502,23
+2018/2019,MW65,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.532160766117302,24
+2018/2019,MW66,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.42440023455072784,25
+2018/2019,MW67,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.3331055131299282,26
+2018/2019,MW68,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.2749298438794309,27
+2018/2019,MW69,HHS Region 6,4 wk ahead,Bin,Delphi-Stat,-0.8574597518600418,28
+2018/2019,MW46,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.0418435484804909,5
+2018/2019,MW47,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.2846423167627834,6
+2018/2019,MW48,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-2.593149834790384,7
+2018/2019,MW49,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.525867738621549,8
+2018/2019,MW50,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.2237885384395633,9
+2018/2019,MW51,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.0792436047924838,10
+2018/2019,MW52,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.1344791465306152,11
+2018/2019,MW53,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.6419376115021733,12
+2018/2019,MW54,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.637762891528281,13
+2018/2019,MW55,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.8656097210421951,14
+2018/2019,MW56,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-3.1087610173132005,15
+2018/2019,MW57,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-2.683079196765387,16
+2018/2019,MW58,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-4.7539440271175595,17
+2018/2019,MW59,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-3.8014517769521623,18
+2018/2019,MW60,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-3.1915343647558525,19
+2018/2019,MW61,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-3.089871846789124,20
+2018/2019,MW62,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-0.72594768239772,21
+2018/2019,MW63,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.962005118276964,22
+2018/2019,MW64,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.7399718726094482,23
+2018/2019,MW65,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-1.4565380966408155,24
+2018/2019,MW66,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-0.5742996133700269,25
+2018/2019,MW67,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-0.19641959322634986,26
+2018/2019,MW68,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-0.08929478942038505,27
+2018/2019,MW69,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-0.13041963023841086,28
+2018/2019,MW70,HHS Region 7,4 wk ahead,Bin,Delphi-Stat,-0.0726289730970978,29
+2018/2019,MW42,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.5774482874202251,1
+2018/2019,MW43,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.9937193979315209,2
+2018/2019,MW44,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.972546429883789,3
+2018/2019,MW45,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.980851363688312,4
+2018/2019,MW46,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.0871266234781725,5
+2018/2019,MW47,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.123209758953579,6
+2018/2019,MW48,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-2.5183600164493125,7
+2018/2019,MW49,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.608107034003326,8
+2018/2019,MW50,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.2055926769692589,9
+2018/2019,MW51,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.210502943218061,10
+2018/2019,MW52,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.4085511548001248,11
+2018/2019,MW53,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-2.4598753093462595,12
+2018/2019,MW54,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-3.9308029661608845,13
+2018/2019,MW55,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-5.518075429289443,14
+2018/2019,MW56,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-4.583598437241662,15
+2018/2019,MW57,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-4.295997696395879,16
+2018/2019,MW58,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-4.443569326558392,17
+2018/2019,MW59,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-2.998334170274998,18
+2018/2019,MW60,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.1405579630549363,19
+2018/2019,MW61,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.1447294376576551,20
+2018/2019,MW62,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.6607601683763216,21
+2018/2019,MW63,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.625549109333577,22
+2018/2019,MW64,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-0.8470443173854543,23
+2018/2019,MW65,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-0.5844872742057969,24
+2018/2019,MW66,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-0.7138080442385252,25
+2018/2019,MW67,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.0967218793793159,26
+2018/2019,MW68,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.3158907800527648,27
+2018/2019,MW69,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.3151046260858616,28
+2018/2019,MW70,HHS Region 8,4 wk ahead,Bin,Delphi-Stat,-1.041698110916113,29
+2018/2019,MW44,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.5655046564811236,3
+2018/2019,MW45,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.6417679802548274,4
+2018/2019,MW46,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.9523381215878376,5
+2018/2019,MW47,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.796411309688677,6
+2018/2019,MW48,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.2505413457002983,7
+2018/2019,MW49,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.0439951969807795,8
+2018/2019,MW50,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.9889313824802146,9
+2018/2019,MW51,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.1795254913483884,10
+2018/2019,MW52,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.1324600294925165,11
+2018/2019,MW53,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.8452333623425057,12
+2018/2019,MW54,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.8633306642131877,13
+2018/2019,MW55,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.1034227876744267,14
+2018/2019,MW56,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.9171794830754355,15
+2018/2019,MW57,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.0316829921388204,16
+2018/2019,MW58,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.3597342856311783,17
+2018/2019,MW59,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.0154578473311662,18
+2018/2019,MW60,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-1.0963512164171052,19
+2018/2019,MW61,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.4426381057627576,20
+2018/2019,MW62,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.7322647701823819,21
+2018/2019,MW63,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.38658632887098743,22
+2018/2019,MW64,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.5227408788220788,23
+2018/2019,MW65,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.3619907317459388,24
+2018/2019,MW66,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.397207183890105,25
+2018/2019,MW67,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.482149082011958,26
+2018/2019,MW68,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.41002321407817055,27
+2018/2019,MW69,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.2039053327575194,28
+2018/2019,MW70,HHS Region 9,4 wk ahead,Bin,Delphi-Stat,-0.357501110999978,29
+2018/2019,MW46,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.5373772739589093,5
+2018/2019,MW47,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.8685518294261666,6
+2018/2019,MW48,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.0162350367559079,7
+2018/2019,MW49,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.8467414184283583,8
+2018/2019,MW50,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.9145553274546511,9
+2018/2019,MW51,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.0624634984287895,10
+2018/2019,MW52,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.9153868865273382,11
+2018/2019,MW53,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.9616466171903443,12
+2018/2019,MW54,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.3638697071445764,13
+2018/2019,MW55,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-2.0396663301090006,14
+2018/2019,MW56,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.6608511740143548,15
+2018/2019,MW57,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.5282193726522748,16
+2018/2019,MW58,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-2.6726275245435818,17
+2018/2019,MW59,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-2.7977335150992424,18
+2018/2019,MW60,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-2.300479913348549,19
+2018/2019,MW61,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.8516766376421501,20
+2018/2019,MW62,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.6874491811277065,21
+2018/2019,MW63,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.3938859705689342,22
+2018/2019,MW64,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-1.6349099492134136,23
+2018/2019,MW65,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.8811042934776467,24
+2018/2019,MW66,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.6653809022445939,25
+2018/2019,MW67,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.1939640812186473,26
+2018/2019,MW68,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.15858544963184887,27
+2018/2019,MW69,HHS Region 10,4 wk ahead,Bin,Delphi-Stat,-0.15866313629004283,28
