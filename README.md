@@ -5,14 +5,14 @@ Automatically do error analysis using flu-score data of two groups
 
 $python main.py --group1 example/Delphi-Epicast2.csv --group2 example/Delphi-Stat.csv --name1 Delphi-Epicast --name2 Delphi-Stat
 
-The minimum input files required to run the program are: 
+### The minimum input files required to run the program are: 
 
 [--group1] A csv file of flu-score information of group 1 with separator ','. 
 
 [--group2] A csv file of flu-score information of group 2 with separator ','. 
 	 
 
-Optional Arguments:
+### Optional Arguments:
 
 [--name1]  The name of group 1. 
 
@@ -48,7 +48,7 @@ Optional Arguments:
 
 
 
-Visualization Methods:	
+## Visualization Methods:	
 
 — Heatmap for the performance difference in terms of a specific target. (competition_week, location, difference)
 - Boxplot for the performance difference in terms of a specific target. (location, distribution of difference over 
@@ -59,7 +59,7 @@ Visualization Methods:
   is chosen to be locations)
 
 
-Limitations:
+## Limitations:
 
 - This version cannot deal with more than two groups.
 - It takes several seconds to run the system.
